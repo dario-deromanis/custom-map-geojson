@@ -1,1 +1,6206 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8738031,
+          40.7257305
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ISCHIA E PROCIDA <br/> <br/>80075 <br/> () <br/>081/997882 <br/> <br/>ischia_legambiente@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56738,
+          41.87194
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ESTHER ADA <br/> <br/> <br/> () <br/> <br/> <br/>volontariato.lampedusa@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6191305,
+          37.3984717
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente RABAT <br/>VIA LA ROSA 53 <br/>92021 <br/>ARAGONA (AG) <br/>0922699210 <br/> <br/>legambienteag@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.455717,
+          45.137845
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VERDEBLU <br/>VIA LUIGI GONZAGA 30/A <br/>15033 <br/>CASALE MONFERRATO (AL) <br/> <br/>3333127307 <br/>info@legambientecasale.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.842666,
+          44.6223796
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VAL LEMME <br/>CASA CERTOSINI N. 76 <br/>15060 <br/>VOLTAGGIO (AL) <br/>0143 392161 <br/>3496724348 <br/>legambiente.vallemme@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.59643,
+          44.616073
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente OVADESE E VALLE STURA <br/>VIA SANTUARIO 22 <br/>15074 <br/>MOLARE (AL) <br/>0143 888280 <br/>3495363809 <br/>grilgo@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.311072,
+          43.639322
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL PUNGITOPO <br/>PIAZZA VITTORIO VENETO 1 <br/>60018 <br/>MONTEMARCIANO (AN) <br/>071200852 <br/> <br/>ilpungitopo@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4015845,
+          43.6232309
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MARTIN PESCATORE <br/>VIA SPAGNOLI 25 <br/>60015 <br/>FALCONARA MARITTIMA (AN) <br/>071 912872 <br/> <br/>legambiente.martinpescatore@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.245669,
+          43.524752
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente AZZARUOLO JESI <br/>PIAZZA FEDERICO II, 4/A <br/>60035 <br/>JESI (AN) <br/>0731 209294 <br/> <br/>legambiente.azzaruolo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.037243,
+          43.538888
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VERDEACQUA <br/>VIA A. BOCCONI 47 <br/>60030 <br/>SERRA DE' CONTI (AN) <br/>0731 879102 <br/> <br/>bendelari@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.311072,
+          43.639322
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MARCHE VOLONTARIATO <br/>piazza Vittorio Veneto 1 <br/>60018 <br/>MONTEMARCIANO (AN) <br/>071 200852 <br/>3394681354 <br/>info@legambientemarche.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9080991,
+          43.3381724
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALLE DELL'ACQUARELLA <br/>Via Matteotti 4 <br/>61044 <br/>FABRIANO (AN) <br/> <br/> <br/>valle.acquarella.legambiente@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.30846669,
+          45.7412091
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALLE D'AOSTA <br/>VIA DELLE BETULLE 84 <br/>11100 <br/>AOSTA (AO) <br/>0165 40863 <br/> <br/>legambientevda@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8773599,
+          42.9497988
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SAN BENEDETTO DEL TRONTO <br/>Piazza Cesare Battisti, 2 <br/>63074 <br/>SAN BENEDETTO DEL TRONTO (AP) <br/>0735-584383 <br/>3474670843 <br/>info@legambientesbt.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.57104,
+          42.8555299
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ASCOLI PICENO <br/>VIA E.P. MAZZONI 1/A <br/>63100 <br/>ASCOLI PICENO (AP) <br/>0736/259439 <br/> <br/>prezzavento@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3995091,
+          42.3498479
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ABRUZZO BENI CULTURALI <br/> <br/>67100 <br/>L'AQUILA (AQ) <br/> <br/> <br/>beniculturali.legambienteabr@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8894048,
+          43.4580473
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LAURA CONTI <br/>VIA RISTORO D'AREZZO 79/81 <br/>52100 <br/>AREZZO (AR) <br/>0575 401898 <br/> <br/>info@legambientearezzo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8894048,
+          43.4580473
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ETA BETA <br/>via Ristoro d'Arezzo 79/81 <br/>52100 <br/>AREZZO (AR) <br/>0575401898 <br/> <br/>info@legambientearezzo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2120349,
+          44.909254
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GAIA <br/>FRAZIONE VALMANERA 37 <br/>14100 <br/>ASTI (AT) <br/>0141476929 <br/> <br/>giancarlo@dapavo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0305853,
+          44.9139227
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALTRIVERSA <br/>VIA ROMA 5 <br/>14018 <br/>VILLAFRANCA D'ASTI (AT) <br/> <br/>335-7506324 <br/>info@legambientevaltriversa.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8425433,
+          40.8783792
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ALTA VALLE DEL SABATO <br/> <br/>83020 <br/>SAN MICHELE DI SERINO (AV) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8479521,
+          40.8310172
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALLE SOLOFRANA <br/>Via ALDO MORO 33 <br/>83029 <br/>SOLOFRA (AV) <br/> <br/> <br/>legambientevallesolofrana@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2217291,
+          40.8170759
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente La Voce della Terra ODV-ETS <br/> <br/>83040 <br/>CAPOSELE (AV) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4131601,
+          41.1534886
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Legambiente Circolo 'Angelo Vassallo' Corato <br/> <br/>70033 <br/>CORATO (BA) <br/>3464263936 <br/> <br/>info@legambientecorato.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.123277,
+          40.849265
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VERDE CITTA' <br/>VIA MONACHE, 1 <br/>70017 <br/>PUTIGNANO (BA) <br/>3334461591 <br/> <br/>info@legambienteputignano.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8752612,
+          41.1056387
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente COMITATO REG. PUGLIESE <br/>Via della Resistenza, 48 B/2 <br/>70125 <br/>BARI (BA) <br/>080 5212083 <br/> <br/>legambiente.puglia@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5925288,
+          41.1995065
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MOLFETTA <br/>Via Tenente Paolo Poli 12 <br/>70056 <br/>MOLFETTA (BA) <br/> <br/>3493558529 <br/>info@legambientemolfetta.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.54464,
+          41.1298819
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERLIZZI <br/>VIA VITTORIO VENETO N.22 <br/>70038 <br/>TERLIZZI (BA) <br/> <br/> <br/>legambiente.terlizzi@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2230532,
+          40.9904273
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente HIPPOCAMPUS <br/>VIA GIOVANNI XXIII <br/>70044 <br/>POLIGNANO A MARE (BA) <br/>3315774515 <br/> <br/>legambientepolignano@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9501199,
+          40.886997
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente QUATTROMIGLIA <br/>via Firenze 36 <br/>70010 <br/>SAMMICHELE DI BARI (BA) <br/> <br/>3405033648 <br/>infolegambiente@la-piazza.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.091411,
+          41.0579873
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente I CAPODIECI - DALLA CAMPAGNA AL MARE <br/>VIA PETRARCA, 64 <br/>70042 <br/>MOLA DI BARI (BA) <br/> <br/> <br/>presidente@legambientemola.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.112465,
+          40.975674
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ABRON <br/>VIA DEL MANDORLO NC <br/>70014 <br/>CONVERSANO (BA) <br/>3398358155 <br/> <br/>legambienteabron@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7706111,
+          40.8880513
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CASSANO DELLE MURGE <br/>PIAZZA GALILEO GALILEI ANGOLO VIA CADORNA <br/>70020 <br/>CASSANO DELLE MURGE (BA) <br/> <br/> <br/>legambientecassano@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.690182,
+          41.1060498
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BITONTO <br/>VIA BECCHERIE LISI 3/5 <br/>70032 <br/>BITONTO (BA) <br/> <br/> <br/>circolo.legambientebitonto@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8752612,
+          41.1056387
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente EUDAIMONIA BARI <br/>Via DELLA RESISTENZA 48 PL B2 <br/>70125 <br/>BARI (BA) <br/> <br/> <br/>legambiente.eudaimonia.bari@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7843092,
+          41.0873303
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MODUGNO <br/>Via GIOSUE' CARDUCCI 16 <br/>70026 <br/>MODUGNO (BA) <br/> <br/>3357100208 <br/>legambientecircolomodugno@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7067688,
+          41.0584376
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MIRAN HROVATIN <br/>Via VIA M. DELLA MURA, 43 <br/>70027 <br/>PALO DEL COLLE (BA) <br/>080.624.560 <br/>348.5114011 <br/>legambientepalodelcolle@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6699294,
+          45.6925581
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BERGAMO <br/>VIA GHISLANZONI 37 <br/>24122 <br/>BERGAMO (BG) <br/>035319449 <br/> <br/>info@legambientebergamo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5596973,
+          45.6243146
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente C.E.R.C.A. BREMBO ASSOCIAZIONE <br/>VIA DON TODESCHINI SNC <br/>24040 <br/>FILAGO (BG) <br/>035 4943478 <br/>3356569689 <br/>cercabrembo@legambientebergamo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8290515,
+          45.674288
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALCAVALLINA E VALCALEPIO <br/>piazza europa 8a <br/>24060 <br/>GORLAGO (BG) <br/>331 2190899 <br/> <br/>legambientevalcavallinalcalepio@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.576309,
+          45.5354
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERRE DEL GERUNDO <br/>Via Canonica 60 <br/>24047 <br/>TREVIGLIO (BG) <br/> <br/>348 711 2755 <br/>legambiente.bassabergamasca@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.714516,
+          45.5807669
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente AGORA' <br/>via buonarroti 14 <br/>24055 <br/>COLOGNO AL SERIO (BG) <br/> <br/> <br/>ivan.giusi@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0677128,
+          45.802423
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ALTO SEBINO <br/> <br/>24063 <br/>CASTRO (BG) (BG) <br/>348 5411746 <br/> <br/>info@legambientealtosebino.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0436246,
+          45.5577289
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CIRCOLO BIELLESE TAVO BURAT <br/>STRADA ALLA FORNACE 8/B <br/>13900 <br/>BIELLA (BI) <br/>015 849 1179 <br/>340 2278457 <br/>legambiente.biella@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5258246,
+          41.2161061
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALLE TELESINA <br/>Via Roma, 155 <br/>82037 <br/>TELESE TERME (BN) <br/> <br/>3495208741 <br/>legambientevalletelesina@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0152123,
+          41.4099252
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente DELLA VALFORTORE <br/> <br/> <br/>SAN BARTOLOMEO IN GALDO (BN) <br/> <br/> <br/>geoinvest1@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7963035,
+          41.1272072
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE BENEVENTO <br/>Via Mario Rotili 5 <br/>82100 <br/>BENEVENTO (BN) <br/> <br/> <br/>legambiente.benevento@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6941211,
+          44.4616114
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MEDICINA <br/>VIA SAN VITALE EST 4452 <br/>40059 <br/>MEDICINA (BO) <br/>338-3815281 <br/> <br/>legambientemedicina@inwind.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3580246,
+          44.5460909
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BOLOGNA <br/>Via Massimo Gorki 6 <br/>40128 <br/>BOLOGNA (BO) <br/>051 241324 <br/>3345334997 <br/>info@legambientebologna.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3002848,
+          44.5132915
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SETTA SAMOGGIA RENO <br/>Via Agucchi, 84/10A <br/>40133 <br/>BOLOGNA (BO) <br/>0514141070 <br/> <br/>claudio.corticelli@tin.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2204149,
+          44.1176186
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente RONCOBILACCIO <br/>Via Castello, 12 - Roncobilaccio <br/>40035 <br/>CASTIGLIONE DEI PEPOLI (BO) <br/> <br/> <br/>legambiente.roncobilaccio@hotmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.378195,
+          44.6512284
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PIANURA NORD BOLOGNA <br/>VIA DELL'ARTIGIANO, 4/4 <br/>40016 <br/>SAN GIORGIO DI PIANO (BO) <br/> <br/>328783068 <br/>legambiente@pianuranord.bo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.943838,
+          40.6365554
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TONINO DI GIULIO <br/>VIA SCOLMAFORA 2 <br/>72100 <br/>BRINDISI (BR) <br/>0831585602 <br/> <br/>legambientebrindisi@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.64115,
+          40.49735
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PIAROA <br/>Via Francesco Milizia 83 <br/>72024 <br/>ORIA (BR) <br/>0831840142 <br/>3395290689 <br/>gigliola.palazzo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4224959,
+          40.7384816
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CISTERNINO <br/>C.DA TANZARELLA 77 <br/>72014 <br/>CISTERNINO (BR) <br/>0804447439 <br/>3403014653 <br/>legambientcisternino@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6615783,
+          40.7022522
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CAROVIGNO <br/> <br/> <br/>CAROVIGNO (BR) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2076709,
+          45.5660256
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BRESCIA <br/>via del Molino, 65 <br/>25127 <br/>BRESCIA (BS) <br/> <br/>335.5943132 <br/>legambientebrescia@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6173207,
+          45.47602
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PER ILGARDA <br/> <br/> <br/>SIRMIONE (BS) <br/> <br/> <br/>paolobonsignori@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0551019,
+          45.4035933
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BASSA BRESCIANA <br/>VIA IV NOVEMBRE 10 <br/>25030 <br/>BARBARIGA (BS) <br/>030 9971465 <br/> <br/>legambientebassabs@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3089357,
+          45.9574191
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALLE CAMONICA <br/>VIA MILANO 7 <br/>25043 <br/>BRENO (BS) <br/>0364.22186 <br/> <br/>guidocenini@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1158293,
+          45.5646091
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL GANDOVERE FRANCIACORTA <br/>VIA MARCONI 1 <br/>25045 <br/>CASTEGNATO (BS) <br/> <br/> <br/>legambientefc@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2178501,
+          45.3680207
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente FIUME MELLA <br/> <br/> <br/>LENO (BS) <br/> <br/> <br/>ligabosco@hotmail.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9671855,
+          45.5999847
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ERBUSCO - ILARIA ALPI <br/> <br/> <br/>ERBUSCO (BS) <br/> <br/> <br/>gippo_corioni@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.365655,
+          45.4293331
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MONTICHIARI <br/>VIA DEI ZAMBONI 6 <br/>25018 <br/>MONTICHIARI (BS) <br/> <br/> <br/>legambiente.monti@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3727529,
+          45.5028301
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BRESCIA EST <br/>VIA LUIGIA FIORINI 5 <br/>25080 <br/>MAZZANO (BS) <br/>0302123904 <br/> <br/>legambientebresciaest@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1002926,
+          45.6900001
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BASSO SEBINO <br/> <br/>25058 <br/>SULZANO (BS) <br/>030/985621 <br/> <br/>legambiente.bassosebino@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8524555,
+          45.5734542
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GRUPPO ECOLOGICO PONTOGLIESE <br/>VIA SANTA MARTA <br/>25037 <br/>PONTOGLIO (BS) <br/> <br/> <br/>info@gruppoecologico.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2300065,
+          45.4500789
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CIRCOLO LEGAMBIENTE 'LA NOSTRA TERRA' DI BORGOSATOLLO, CASTENEDOLO, GHEDI E MONTIRONE APS <br/>Via Vincenzo Foppa, 11/i <br/>25010 <br/>MONTIRONE (BS) <br/> <br/>3345443760 <br/>lanostraterralegambiente@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.92516189,
+          45.5387248
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CHIARIAMBIENTE OVEST BRESCIANO <br/> <br/>25032 <br/>CHIARI (BS) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.416881,
+          41.2737519
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TRANI <br/>CSO. M. R. IMBRIANI 119/B <br/>76125 <br/>TRANI (BT) <br/>0883 589089 <br/> <br/>legambientetrani@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0641204,
+          41.2233686
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CANOSA <br/>via Crispi 20 <br/>76012 <br/>CANOSA DI PUGLIA (BT) <br/> <br/>3283381920 <br/>colagiac@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2958423,
+          41.226942
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente THOMAS SANKARA <br/>Via Riccardo Ottavio Spagnoletti, 14 <br/>76123 <br/>ANDRIA (BT) <br/>3294778384 <br/> <br/>legambienteandria@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1698563,
+          41.3523079
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MARGHERITA DI SAVOIA <br/> <br/>76016 <br/>MARGHERITA DI SAVOIA (BT) <br/>3278195112 <br/>3278195112 <br/>legambientemargheritadisavoia@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2984972,
+          41.3174747
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BARLETTA <br/>Via Misericordia 52 <br/>76121 <br/>BARLETTA (BT) <br/> <br/>3337979500 <br/>legambiente.barletta.bt@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.502065,
+          41.242726
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BISCEGLIE <br/> <br/>76011 <br/>BISCEGLIE (BT) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0838068,
+          40.9724406
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SPINAZZOLA <br/>VIA VALLONE ,19 <br/>76014 <br/>SPINAZZOLA (BT) <br/> <br/> <br/>legambiente.spinazzola@hotmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3548654,
+          46.499216
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Bolzano <br/> Piazza del Grano, 10 <br/>39100 <br/>BOLZANO .BOZEN. (BZ) <br/> <br/>3475128281 <br/>legambienteaabolzano@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1213829,
+          39.2131737
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL GRILLO <br/>VIA NUORO 43 <br/>09125 <br/>CAGLIARI (CA) <br/>070/659740 <br/> <br/>legambientecagliari@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1928026,
+          39.3039482
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SU TZINNIBIRI <br/>VIA MARCONI 62 <br/>09048 <br/>SINNAI (CA) <br/>070/766249 <br/> <br/>carlamigoni@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1213829,
+          39.2131737
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERRITORIALE SARDEGNA <br/>VIA NUORO 43 <br/>09125 <br/>CAGLIARI (CA) <br/>070/659740 <br/> <br/>salegambiente@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0000129,
+          39.296995
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL FENICOTTERO <br/>CORSO AFRICA 6A <br/>09032 <br/>ASSEMINI (CA) <br/>3701282250 <br/> <br/>info@legambienteassemini.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1158202,
+          39.7401935
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CEA VIE DEL TRENO PARCO ASUSA <br/>CORSO VITTORIO EMANUELE S.N. PARCO ASUSA <br/>08033 <br/>ISILI (CA) <br/>0782 221114 <br/> <br/>ceaviedeltreno@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.653581,
+          41.5603596
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente EUGENIO CIRESE - CAMPOBASSO <br/>PIAZZA VENEZIA S.N.C. <br/>86100 <br/>CAMPOBASSO (CB) <br/>0874 198365 <br/>3339397246 <br/>legambientecircolocb@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3498068,
+          41.0690841
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CASERTA <br/>Piazza San Gennaro <br/>81100 <br/>CASERTA (CE) <br/>0823 327104 <br/> <br/>dangerio2002@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9325868,
+          41.2383257
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ALFREDO PETTERUTI <br/> <br/>81037 <br/>SESSA AURUNCA (CE) <br/>3284592281 <br/> <br/>legambientesessa@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.37144,
+          41.3515766
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VOLONTARIATO MATESE <br/>Via Caruso <br/>81016 <br/>PIEDIMONTE MATESE (CE) <br/> <br/>3289798359 <br/>legambiente.matese@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2536242,
+          40.9703732
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GEOFILOS ATELLA (SUCCIVO) <br/>VIA XXIV MAGGIO <br/>81030 <br/>SUCCIVO (CE) <br/>081/5011641 <br/> <br/>info@geofilos.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8999673,
+          41.1150273
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE MONDRAGONE <br/>VIA DELLE MIMOSE <br/>81034 <br/>MONDRAGONE (CE) <br/>3393277033 <br/> <br/>legambientemondragone@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.441262,
+          42.069103
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Geo APS Atessa <br/>Viale della Rimembranza n.13 <br/>66041 <br/>ATESSA (CH) <br/>3272244824 <br/> <br/>ceacasanatura@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1635845,
+          42.347886
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MIRABILIA <br/> <br/> <br/>CHIETI (CH) <br/> <br/> <br/>danielemario1955@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5019844,
+          42.1578048
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PAGLIETA <br/>VIA GIUSEPPE DI VITTORIO 8 <br/>66020 <br/>PAGLIETA (CH) <br/>0872/809837 <br/> <br/>lunell@tin.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3890227,
+          42.22655
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LANCIANO <br/> <br/>66034 <br/>LANCIANO (CH) <br/>0872709068 <br/>3890729974 <br/>p.marrollo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5675269,
+          42.1097662
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente DEL VASTESE <br/>Piazza De Riseis <br/>66020 <br/>SCERNI (CH) <br/>3459193427 <br/> <br/>dimarcogiuseppe@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7058711,
+          42.1045588
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VASTO <br/> <br/>66054 <br/>VASTO (CH) <br/> <br/> <br/>legambientevasto@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0628928,
+          37.4901115
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CALTANISSETTA <br/>via Rosso Di San Secondo,14/a <br/>93100 <br/>CALTANISSETTA (CL) <br/> <br/>3393591755 <br/>legambientecaltanissetta@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3232409,
+          44.7256166
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BARGE <br/>VIA BIANCO 1 <br/>12032 <br/>BARGE (CN) <br/> <br/>3280584013 <br/>d.palmero@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5430625,
+          44.3861962
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CUNEO <br/>via Torre Frati 36 <br/>12100 <br/>CUNEO (CN) <br/> <br/>3931038089 <br/>lypiac1@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2072181,
+          45.6993143
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Legambiente Cantu <br/>Via C.Pisacane 16 <br/>22063 <br/>CANTU' (CO) <br/> <br/> <br/>circololegambientecantu@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.02233079,
+          45.979643
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALLE INTELVI LAURA SCOTTI <br/>P.ZZA CIRLA <br/>22024 <br/>LANZO D'INTELVI (SOPPRESSO) (CO) <br/>347 0595496 <br/> <br/>legambientevalleintelvi@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3131916,
+          45.8565762
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Legambiente CEA Prim'Alpe <br/>Via per le Alpi 7 <br/>22035 <br/>CANZO (CO) <br/>031 682002‬ <br/>366 4085004‬ <br/>primalpe@legambientelombardia.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.091958,
+          45.7957404
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ANGELO VASSALLO <br/>CASTELLINI 19 <br/>22100 <br/>COMO (CO) <br/>031275038 <br/> <br/>legambiente.como@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.209105,
+          45.8138242
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ERBESE <br/> <br/>22036 <br/>ERBA (CO) <br/> <br/>3284890954 <br/>legambienterbese@outlook.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1304005,
+          46.0320291
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LAGO CERESIO <br/>Cuccio, 95 <br/>22018 <br/>PORLEZZA (CO) <br/> <br/> <br/>legambientelagoceresio@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0304049,
+          45.1404115
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CIRCOLO VEDO VERDE LEGAMBIENTE CREMONA <br/>VIA DEGLI ORTI ROMANI, 18 <br/>26100 <br/>CREMONA (CR) <br/>3338243898 <br/>3338243898 <br/>legambiente.cr@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5707088,
+          45.3913606
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ALTO CREMASCO <br/> <br/>26020 <br/>PALAZZO PIGNANO (CR) <br/> <br/> <br/>altocremasco@legambiente.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6945522,
+          39.2561506
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SILA <br/>Via Giuseppe Giusti, 47 <br/>87055 <br/>SAN GIOVANNI IN FIORE (CS) <br/>0984 970877 <br/> <br/>info@legambientesila.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8642593,
+          39.6494674
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BELVEDERE MARITTIMO <br/> <br/>87021 <br/>BELVEDERE MARITTIMO (CS) <br/> <br/> <br/>legambientebelvedere@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2484794,
+          39.3016686
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente COSENZA <br/>via Galluppi, 65 <br/>87100 <br/>COSENZA (CS) <br/>3452675189 <br/>3452675189 <br/>legambientecosenza@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3828566,
+          39.488691
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ACRI <br/> <br/>87041 <br/>ACRI (CS) <br/> <br/> <br/>circololegambienteacri@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1744203,
+          39.2787778
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CERISANO <br/>Via Castagne dei monaci 13 <br/>87044 <br/>CERISANO (CS) <br/> <br/>3897953405 <br/>legambientecerisano@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9458161,
+          42.3868844
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente NICA' - SCALA COELI <br/>via nazionale nord SS108 ter n.60 <br/>87060 <br/>SCALA COELI (CS) <br/> <br/>3462739434 3313738338 <br/>legambiente.nica@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1662571,
+          37.6111719
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SARTORIUS W. SHAUSEN <br/>Via PENNISI 25 <br/>95024 <br/>ACIREALE (CT) <br/> <br/>3335337748 <br/>legambienteacireale@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0973429,
+          37.5134761
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CITTA' AMBIENTE <br/> <br/>95100 <br/>CATANIA (CT) <br/> <br/>3471825906 <br/>legambientect@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0674317,
+          37.7103828
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VAL DEMONE <br/>VIA PAVONCELLO 6 <br/>95019 <br/>ZAFFERANA ETNEA (CT) <br/>+39.3487098243 <br/> <br/>legambientevaldemone@inwind.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5126066,
+          37.2380929
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL CIGNO <br/> <br/> <br/>CALTAGIRONE (CT) <br/> <br/> <br/>legambientecircoloilcigno@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5827279,
+          38.9016369
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente AIRONE <br/>VIA Massara 20 <br/>88100 <br/>CATANZARO (CZ) <br/>3288103930 <br/> <br/>legambientecatanzaro@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4268326,
+          38.8221871
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GIRIFALCO <br/>VIA DELLA LUCERTOLA <br/>88024 <br/>GIRIFALCO (CZ) <br/>3930124330 <br/> <br/>legambientegirifalco@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5402348,
+          38.7654749
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE CASSIODORO STALETTI <br/> <br/>88069 <br/>STALETTI' (CZ) <br/> <br/> <br/>legambientestaletti@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5233604,
+          37.6541567
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente legambiente protezione civile filippo salimeni <br/>CORTILE S. AGOSTINO 17 <br/>94011 <br/>AGIRA (EN) <br/>0935 691705 <br/>3289146561 <br/>legambiente.agira@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1049725,
+          45.6480129
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CIRCOLO LEGAMBIENTE EREI - ENNA <br/>Via Morgano 3 <br/>94100 <br/>ENNA (EN) <br/> <br/>3282496264 <br/>legambiente.enna@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3748292,
+          37.3865232
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PIAZZAMBIENTE <br/>Via Don Lorenzo Milani <br/>94015 <br/>PIAZZA ARMERINA (EN) <br/>0935/1988282 <br/>3386309278 <br/>circolopiazzambiente@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5957169,
+          37.7844105
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ANCIPA <br/>VIA S SILVESTRO N130 <br/>94018 <br/>TROINA (EN) <br/>0935656636 <br/> <br/>turidivincenzo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2113906,
+          44.1238691
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CIRCOLO LEGAMBIENTE FORLI'-CESENA APS <br/> VIA ROMEA N. 2411 <br/>47522 <br/>CESENA (FC) <br/>0547662359 <br/>3356413029 <br/>legambiente.cesena@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.185293,
+          44.694667
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente DELTA DEL PO' <br/>VIA ANTONIO GRAMSCI 1 <br/>44022 <br/>COMACCHIO (FE) <br/>0533 313592 <br/> <br/>legambiente.comacchio@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6289287,
+          44.8217738
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL RAGGIO VERDE <br/>via Ravenna 52 <br/>44124 <br/>FERRARA (FE) <br/> <br/> <br/>info@legambienteferrara.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5466527,
+          41.4648533
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GAIA <br/>VIA DELLA REPUBBLICA 54 <br/>71100 <br/>FOGGIA (FG) <br/> <br/>3296485469 <br/>legambientegaiafg@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3838682,
+          41.68894
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ANDREA PAZIENZA <br/>Via Teresa Masselli, 63 <br/>71016 <br/>SAN SEVERO (FG) <br/>0882228107 <br/>3476395576 <br/>renatoregina63@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.571685,
+          41.8345783
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IRIDE <br/> <br/>71015 <br/>SAN NICANDRO GARGANICO (FG) <br/> <br/>3403545217 <br/>nazario.bizzarri@tin.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7293509,
+          41.7062351
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LO SPERONE <br/>VIA FOGGIA 17 <br/>71013 <br/>SAN GIOVANNI ROTONDO (FG) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.95417,
+          41.706757
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente FESTAMBIENTESUD <br/>Via Balduino 23 <br/>71037 <br/>MONTE SANT'ANGELO (FG) <br/>379 177 5345 <br/> <br/>festambientesud@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.913258,
+          41.623545
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MANFREDONIA <br/>Via MOLO DI PONENTE <br/>71043 <br/>MANFREDONIA (FG) <br/> <br/> <br/>manfredonia.legambiente@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1980786,
+          41.3984747
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MONTI DAUNI <br/>Via F.P. TORE 12 <br/>71032 <br/>BICCARI (FG) <br/> <br/> <br/>LEGAMBIENTEBICCARI@GMAIL.COM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275806,
+          43.7631123
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente FIRENZE <br/>VIA G.P.ORSINI 44 <br/>50126 <br/>FIRENZE (FI) <br/>055685551 <br/> <br/>info@legambientefirenze.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2778338,
+          43.763381
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE TOSCANA VOLONTARIATO <br/>Via Giampaolo Orsini 44 <br/>50126 <br/>FIRENZE (FI) <br/>055681033 <br/> <br/>info@legambientetoscana.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.194328,
+          43.827991
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente C.I.A.S. SESTO FIORENTINO <br/>VIA SCARDASSIERI 47/A <br/>50019 <br/>SESTO FIORENTINO (FI) <br/> <br/>3407955202 <br/>gsisimone@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9418647,
+          43.7211639
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente EMPOLESE-VALDELSA <br/>VIA ROZZALUPI SNC <br/>50053 <br/>EMPOLI (FI) <br/>329/1487399 <br/> <br/>legambientempoli@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3186815,
+          43.5830644
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CHIANTI FIORENTINO <br/> <br/>50022 <br/>GREVE IN CHIANTI (FI) <br/> <br/> <br/>legambientechiantifiorentino@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3190207,
+          43.752206
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BAGNO A RIPOLI <br/>VIA ROMA 124 <br/>50012 <br/>BAGNO A RIPOLI (FI) <br/> <br/> <br/>legambiente.bagnoaripoli@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3785546,
+          44.1197838
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ALTO MUGELLO <br/> <br/>50033 <br/>FIRENZUOLA (FI) <br/>055812025 <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7709323,
+          43.2414718
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PORTO S.ELPIDIO <br/>via venezia 21 <br/>63821 <br/>PORTO SANT'ELPIDIO (FM) <br/>0734 992686 <br/>320 0864414 <br/>info@legambientepse.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3555997,
+          42.9800068
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente I SIBILLINI <br/> <br/>63857 <br/>AMANDOLA (FM) <br/>0736847294 <br/> <br/>ceachiro@tin.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.78097,
+          43.2145719
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERRAMARE <br/>B. Tolomei 4 <br/>63900 <br/>FERMO (FM) <br/>3477611348 <br/> <br/>legambientefermano@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3545294,
+          41.6351582
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL CIGNO <br/>VIALE DEL CIPRESSO 16 <br/>03100 <br/>FROSINONE (FR) <br/>0775210398 <br/>3391886677 <br/>legambiente.ilcigno@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4263072,
+          41.6110207
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LA VITE DI RIPI <br/>VIA PORTA SANTA CROCE 4 <br/>03027 <br/>RIPI (FR) <br/>349 6711095 <br/> <br/>legambienteripi@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.505645,
+          41.619825
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LAMASENA <br/>VIA LA LUCCA 57 <br/>03025 <br/>MONTE SAN GIOVANNI CAMPANO (FR) <br/>349 5986873 <br/> <br/>legambiente.lamasena@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2307082,
+          41.7750956
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente WOLF <br/>via colle delle mele snc <br/>03014 <br/>FIUGGI (FR) <br/> <br/>377 9513749 <br/>legambientefiuggi@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.153497,
+          41.7448819
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Legambiente ANAGNI <br/>VIA COLLE SAN DOMENICO 40 <br/>03012 <br/>ANAGNI (FR) <br/>3388249444 <br/> <br/>legambiente.anagni@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9544097,
+          44.4028758
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente AMICI DELLA BICICLETTA <br/>VIA CAFFA 3/5 B <br/>16129 <br/>GENOVA (GE) <br/>010 3621357 <br/> <br/>info@adbgenova.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9544097,
+          44.4028758
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente NUOVA ECOLOGIA GENOVA <br/>Via Caffa 3/5b <br/>16129 <br/>GENOVA (GE) <br/>329 2337976 <br/> <br/>circolo.negenova@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0333559,
+          44.3842563
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CANOAVERDE <br/>Via Ganduccio Odoardo, 2 <br/>16167 <br/>GENOVA (GE) <br/> <br/> <br/>canoaverde@canoaverde.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9544097,
+          44.4028758
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GIOVANI ENERGIE <br/>VIA CAFFA, 3/5B <br/>16129 <br/>GENOVA (GE) <br/>391 745 3263 <br/> <br/>info@legambientegiovanienergie.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3472838,
+          44.3146284
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CANTIERE VERDE <br/>Via Don Bobbio (snc) <br/>16033 <br/>LAVAGNA (GE) <br/>339 2570274 <br/> <br/>adeleo@asl4.liguria.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9544097,
+          44.4028758
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE CAMPI RAGAZZI <br/>VIA CAFFA 3/5B <br/>16129 <br/>GENOVA (GE) <br/>010 319168 <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5485585,
+          45.8021836
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IGNAZIO ZANUTTO (gia GREEN GANG) <br/>via Valentinis 84 <br/>34074 <br/>MONFALCONE (GO) <br/> <br/>328.3648063 <br/>monfalcone@legambientefvg.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.622357,
+          45.9391575
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE GORIZIA <br/>Via Baiamonti 22 <br/>34170 <br/>GORIZIA (GO) <br/> <br/> <br/>gorizia@legambientefvg.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1451031,
+          42.7029469
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente FESTAMBIENTE <br/>LOC. ENAOLI <br/>58100 <br/>GROSSETO (GR) <br/>0564 48771 <br/> <br/>info@festambiente.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1451031,
+          42.7029469
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERRA <br/>LOC. ENAOLI <br/>58100 <br/>GROSSETO (GR) <br/>0564 48771 <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8539797,
+          43.8621898
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALLE ARGENTINA <br/> <br/> <br/>TAGGIA (IM) <br/>3349324232 <br/> <br/>legambiente.argentina@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.245569,
+          41.6114222
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PICCOLI BORGHI <br/>Via le Piane, 61 <br/>86170 <br/>ISERNIA (IS) <br/> <br/>3493935101 <br/>vincenzoviscosi@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2317291,
+          41.8542282
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente 'Elisabetta Cavaliere' <br/>PIAZZA MARCONI 11 <br/>86080 <br/>CASTEL DEL GIUDICE (IS) <br/> <br/>3895512404 <br/>legambientecdg@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7854958,
+          39.1129717
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PETILIA POLICASTRO <br/>VIA DELLE TESSITRICI 10 <br/>88837 <br/>PETILIA POLICASTRO (KR) <br/>0962/433472 <br/> <br/>postmaster@legambientepetilia.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3600023,
+          45.8493642
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LECCO ONLUS <br/>VIA BOVARA 1/F <br/>23868 <br/>VALMADRERA (LC) <br/>0341 202040 <br/> <br/>lecco@legambiente.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.31397999,
+          46.05284
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LARIO SPONDA ORIENTALE <br/>Frazione Oro 23 <br/>23822 <br/>BELLANO (LC) <br/> <br/>3396296123 <br/>lario.lombardia@legambiente.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3705542,
+          39.8482008
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CAPO DI LEUCA <br/> <br/>73034 <br/>GAGLIANO DEL CAPO (LE) <br/> <br/> <br/>capoleuca@capoleucambiente.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.056069,
+          40.0621743
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GALLIPOLI <br/>piazza Matteotti, 2 <br/>73014 <br/>GALLIPOLI (LE) <br/>347 9022874 <br/>3479022874 <br/>legambientegallipoli@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55353199,
+          44.345902
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PORTO CESAREO <br/>Sede Legale VIA EDMONDO DE AMICIS 11 - Sede Operativa LUNGOMARE DI PONENTE <br/>73010 <br/>PORTO CESAREO (LE) <br/>3391667353 <br/>3311363115 <br/>info@legambiente-portocesareo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.28733,
+          39.8628636
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GIGLIO DELLE DUNE <br/>Via Generale Dalla Chiesa snc <br/>73050 <br/>SALVE (LE) <br/>3476651520 <br/> <br/>gioponzetta2@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0004304,
+          40.2896113
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEVERANO E DELLA TERRA D'ARNEO <br/> <br/> <br/>LEVERANO (LE) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3363381,
+          40.271488
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GAIA <br/> <br/> <br/>MELENDUGNO (LE) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4219118,
+          40.0877348
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MINERVINO 2.0 <br/>Via Fiume <br/>73027 <br/>MINERVINO DI LECCE (LE) <br/> <br/>3803073514 <br/>mimmosalentino87@hotmail.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4870568,
+          40.146929
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERRE D'OTRANTO <br/>Via SAN GIOVANNI PAOLO II <br/>73028 <br/>OTRANTO (LE) <br/> <br/> <br/>legambienteterredotranto@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0305523,
+          40.1786746
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente NERETUM <br/> VIA MATTEOTTI N. 5 <br/>73048 <br/>NARDO' (LE) <br/> <br/> <br/>legambientenardo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.19765,
+          42.802852
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ARCIPELAGO TOSCANO <br/>VIA DEL RUOTONE 2 <br/>57033 <br/>MARCIANA MARINA (LI) <br/>0565 904353 <br/> <br/>legambientearcipelago@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3048307,
+          43.5328064
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LIVORNO <br/>VIA CORSICA 27 <br/>57127 <br/>LIVORNO (LI) <br/>3474099837 <br/> <br/>circololegambientelivorno@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537336,
+          42.9210439
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VAL DI CORNIA <br/>via Gori 42 <br/>57025 <br/>PIOMBINO (LI) <br/> <br/>3398018138 <br/>adribrus45@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5644396,
+          43.1635741
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente COSTA ETRUSCA <br/>VIA DEL MERCATO 5 <br/>57022 <br/>CASTAGNETO CARDUCCI (LI) <br/> <br/> <br/>costaetruscalegambiente@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.49230079,
+          45.3114
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LODIVERDE <br/>Via Baroni 3 <br/>26900 <br/>LODI (LO) <br/>0371432153 <br/>3486974304 <br/>circolo@lodiverde.net"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4273551,
+          41.3599427
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LA GINESTRA <br/>VIA ONORATO II CAETANI 31 <br/>04022 <br/>FONDI (LT) <br/>3383974958 <br/>3383974958 <br/>legambienteldb@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8646381,
+          41.4230943
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LARUS <br/>Strada LITORANEA N.2082 <br/>04016 <br/>SABAUDIA (LT) <br/> <br/>3475252133 <br/>circololarus@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3537924,
+          41.3476648
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SERRA ANDRESONE <br/> <br/>04020 <br/>MONTE SAN BIAGIO (LT) <br/> <br/>3201948008 <br/>legambiente.montesanbiagio@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0472164,
+          41.4816358
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Circolo Arcobaleno Pontino Legambiente Volontariato <br/> <br/>04018 <br/>SEZZE (LT) <br/> <br/> <br/>arcobaleno.pontino@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2608022,
+          41.2880889
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERRACINA 'PISCO MONTANO' <br/>Via Torre Gregoriana 1 <br/>04019 <br/>TERRACINA (LT) <br/> <br/>3491412199 <br/>legambiente.terracina@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7338507,
+          41.2418068
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Verde Azzurro Sud Pontino <br/> Via Cristoforo Colombo 132 <br/>04028 <br/>MINTURNO (LT) <br/> <br/>338 4974992 <br/>legambiente.circolosudpontino@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2511896,
+          43.8669691
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE VERSILIA <br/>Via San Francesco, 73 <br/>55049 <br/>VIAREGGIO (LU) <br/> <br/>3899231999 <br/>legambienteversilia@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5661812,
+          43.8741625
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CAPANNORI E PIANA LUCCHESE <br/> <br/>55013 <br/>CAPANNORI (LU) <br/>0583 961560 <br/> <br/>angeliniguido1@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4865161,
+          43.8462925
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CITTA' DI LUCCA <br/>VIA DON MINZONI 300 <br/>55100 <br/>LUCCA (LU) <br/>320 1615613 <br/> <br/>legambientelucca@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2888849,
+          45.5885651
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ALEXANDER LANGER <br/>VIALE LIBERTA', 33 <br/>20900 <br/>MONZA (MB) <br/> <br/> <br/>monza@legambiente.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19393919,
+          45.6577833
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SEREGNO <br/>VIALE PIAVE 58 <br/>20831 <br/>SEREGNO (MB) <br/>0362232357 <br/>3206464209 <br/>info@legambienteseregno.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.13146439,
+          45.653799
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LAURA CONTI SEVESO <br/>VIA FIUME, 6 <br/>20825 <br/>BARLASSINA (MB) <br/> <br/>3458800674 <br/>legambienteseveso@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3429226,
+          45.6510673
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GAIA LEGAMBIENTE <br/>VIA COTTOLENGO 12 <br/>20865 <br/>USMATE VELATE (MB) <br/> <br/>3473896617 <br/>circologaia.legambiente@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2076935,
+          45.6186654
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ROBERTO GIUSSANI <br/>Via Roma, 29 <br/>20832 <br/>DESIO (MB) <br/> <br/> <br/>legambientedesio@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1392813,
+          45.6406555
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GROANE <br/>Via Mezzera, 50/B <br/>20822 <br/>SEVESO (MB) <br/> <br/>3356874571 <br/>legambientegroane@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4783347,
+          43.1854067
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PROTEZIONE BENI CULTURALI ED AMBIENTALI <br/>PIAZZALE DIAZ <br/>62010 <br/>MOGLIANO (MC) <br/>0733 557917 <br/> <br/>macerata@legambientemarche.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2864377,
+          43.2064242
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Circolo IL PETTIROSSO <br/>VIA GULLINI 6 <br/>62029 <br/>TOLENTINO (MC) <br/>0733 961807 <br/> <br/>pettirossocircolo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7347362,
+          43.3013228
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SIBILLA ALERAMO <br/>CORSO GARIBALDI 224 <br/>62012 <br/>CIVITANOVA MARCHE (MC) <br/>0733 815282 <br/> <br/>legambientecivitanova2@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1653804,
+          43.2304153
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL GRILLO <br/> <br/> <br/>SAN SEVERINO MARCHE (MC) <br/> <br/> <br/>ilgrillossm@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7448652,
+          38.1580426
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente NEBRODI <br/>PIAZZA STAZIONE 6 <br/> <br/>CAPO D'ORLANDO (ME) <br/>0941 911472 <br/> <br/>granatas@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5557723,
+          38.2029347
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MESSINA <br/>Piazza Casa Pia Is. 448 N. 1 <br/>98121 <br/>MESSINA (ME) <br/> <br/>3687346098 <br/>cinzia-oliva@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2407187,
+          38.2194961
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente COORD. DEL TIRRENO <br/>PIAZZA MAZZINI 6 <br/>98057 <br/>MILAZZO (ME) <br/>090/9223320 <br/> <br/>legambientetirreno@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5530623,
+          38.1963286
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente DEI PELORITANI <br/>Via San Paolo 1 <br/>98122 <br/>MESSINA (ME) <br/>0909412212 <br/>3922118271 <br/>giovandarrigo@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2728374,
+          37.8360752
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Taormina - Valle Alcantara <br/>Via Umberto I, 470 <br/>98035 <br/>GIARDINI-NAXOS (ME) <br/> <br/> <br/>legambientetaormina@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2250906,
+          38.1498061
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Legambiente del Longano <br/>Salita I^ del Carmine 17 <br/>98051 <br/>BARCELLONA POZZO DI GOTTO (ME) <br/>3349371110 <br/> <br/>legambientelongano@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9552987,
+          38.4668534
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ISOLE EOLIE <br/>VICO MONTEBELLO 18 <br/>98055 <br/>LIPARI (ME) <br/>0909811014 <br/>3314186865 <br/>giuseppelagreca@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.214677,
+          45.5613509
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CINISELLO BALSAMO ONLUS <br/>VIA DE MARCHI 20 <br/>20092 <br/>CINISELLO BALSAMO (MI) <br/>026600853(SERA) <br/> <br/>cinisello.balsamo@legambiente.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.08319719,
+          45.4415511
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ABETE ROSSO <br/>VIA VESPUCCI 26 <br/>20090 <br/>CESANO BOSCONE (MI) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2474966,
+          45.5098044
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CRESCENZAGO <br/>PIAZZA COSTANTINO 1 <br/>20128 <br/>MILANO (MI) <br/> <br/> <br/>aldo.bonora@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.159937,
+          45.4432997
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MONDO GATTO <br/>VIA SCHIEVANO 15 <br/>20143 <br/>MILANO (MI) <br/>02 89190133 <br/> <br/>mondo_gatto@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1622428,
+          45.5724259
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GRUGNOTORTO <br/>VIA ITALIA 13 <br/>20037 <br/>PADERNO DUGNANO (MI) <br/> <br/> <br/>legambiente.grugnotorto@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.93415699,
+          45.5527918
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL GALLO <br/>VIA ALESSANDRO VOLTA 3 <br/>20015 <br/>PARABIAGO (MI) <br/> <br/>3395621963 <br/>parabiago@legambiente.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73438889,
+          45.5285693
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TICINO <br/>via Roma 24 <br/>20029 <br/>TURBIGO (MI) <br/>0331890738 <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3738227,
+          45.5368244
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LA POIANA <br/>VIA CROCE 20 <br/>20060 <br/>BUSSERO (MI) <br/>02 9503384 <br/> <br/>valerio.marchesi@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1948615,
+          45.4487003
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ZANNA BIANCA <br/>VIA BELLEZZA 16A <br/>20136 <br/>MILANO (MI) <br/> <br/> <br/>circolozannabianca.legambiente@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9858152,
+          45.5550705
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente NERVIANO <br/>Via Cesare Battisti <br/>20014 <br/>NERVIANO (MI) <br/>0331 415834 <br/> <br/>legambientenerviano@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.38386079,
+          45.5469474
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL MOLGORA <br/>VIA DON MILANI 12 <br/>20060 <br/>PESSANO CON BORNAGO (MI) <br/> <br/>3395266878 <br/>teresa.gatto@marconigorgonzola.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9416338,
+          45.5059627
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LUNA NUOVA <br/>VIA MARCONI 50 <br/>20010 <br/>ARLUNO (MI) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.320539,
+          45.3578783
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ARCOBALENO <br/>Piazzale delle Associazioni, 2 <br/>20077 <br/>MELEGNANO (MI) <br/> <br/>3355440246 <br/>ameazza@ecorete.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175612,
+          45.548671
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CUSANO MILANINO <br/>VIA ZUCCHI 1 <br/>20095 <br/>CUSANO MILANINO (MI) <br/>02 6196968 <br/> <br/>streganna@tiscalinet.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9242729,
+          45.5658897
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CANEGRATE <br/> <br/>20010 <br/>CANEGRATE (MI) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0085771,
+          45.4833899
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTEBAREGGIO <br/>Via Madonna Pellegrina, 166 <br/>20010 <br/>BAREGGIO (MI) <br/>02.90364048 <br/>3497593446 <br/>pierluigi.pizzetti@suez.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5139576,
+          45.6075069
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LA CIVETTA <br/>Via B.Visconti 3 <br/>20056 <br/>TREZZO SULL'ADDA (MI) <br/> <br/> <br/>erikagrandi@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9891141,
+          45.4457569
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente I FONTANILI <br/>VIA Cardinal Ferrari 1 <br/>20080 <br/>CISLIANO (MI) <br/> <br/>3388126547 <br/>alessandralenzi64@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.04341189,
+          45.524259
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente RHO <br/>PIAZZA LIBERTA' <br/>20017 <br/>RHO (MI) <br/>02 9310613 <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1092322,
+          45.4323397
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL FONTANILE DI BUCCINASCO-CORSICO <br/> <br/>20094 <br/>CORSICO (MI) <br/> <br/> <br/>circoloilfontanile@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2261162,
+          45.499617
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente RETEAMBIENTE MILANO <br/>via A. Bono Cairoli 22 <br/>20127 <br/>MILANO (MI) <br/>02 87386480 <br/> <br/>reteambientemilano@legambientelombardia.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4943899,
+          45.18522
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Circolo Legambiente 'IL QUADRIFOGLIO' <br/>Via Don Luigi Sturzo, 17/A <br/>20078 <br/>SAN COLOMBANO AL LAMBRO (MI) <br/>0371 897350 <br/>3343765510 <br/>pirincho2002@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2267028,
+          45.4987834
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VIVI CON STILE <br/>VIA G. VIDA 7 <br/>20127 <br/>MILANO (MI) <br/>02 97699 301 <br/> <br/>i.lacamera@legambiente.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.95316609,
+          45.4792472
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VITTUONE <br/> <br/>20010 <br/>VITTUONE (MI) <br/>3358217130 <br/> <br/>legambiente.vittuone@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1663261,
+          45.547442
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CORMANO <br/>via Edison 8 <br/>20032 <br/>CORMANO (MI) <br/> <br/> <br/>legambientecormano@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.91655529,
+          45.3990523
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERRE DI PARCHI <br/> <br/>20081 <br/>ABBIATEGRASSO (MI) <br/> <br/> <br/>legambiente.abbiategrasso@googlemail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.12718299,
+          45.543861
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BOLLATE <br/>Via monte sabotino 5 <br/>20021 <br/>BOLLATE (MI) <br/> <br/>3396693260 <br/>massimo_torri@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9105638,
+          44.9394091
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SIATE PARCHI <br/>VIA ANSELMO NORA 30 <br/>46024 <br/>MOGLIA (MN) <br/>0376 556214 34 <br/>3400947193 <br/>siateparchi@fastwebnet.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4902091,
+          45.391943
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CASTIGLIONE - COLLINE MORENICHE <br/>Piazza UGO DALLO, 4 <br/>46043 <br/>CASTIGLIONE DELLE STIVIERE (MN) <br/> <br/>3479906955 <br/>legambientecastiglione@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8754517,
+          44.783173
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE TERRE D'ARGINE APS <br/>Viale Peruzzi 22 <br/>41012 <br/>CARPI (MO) <br/> <br/>3482740125 <br/>legambiente.carpi@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9064672,
+          44.6443282
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MODENA <br/>Via San Faustino 155/U <br/>41124 <br/>MODENA (MO) <br/> <br/> <br/>info@legambientemodena.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.84784,
+          44.5727786
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CHICO MENDES <br/> <br/>41043 <br/>FORMIGINE (MO) <br/> <br/> <br/>legambiente@lifegate.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8754517,
+          44.783173
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PROGETTO CHERNOBYL <br/>VIA PERUZZI 22 <br/>41012 <br/>CARPI (MO) <br/>059695898 <br/> <br/>progetto.cernobyl@comune.carpi.mo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7877451,
+          44.5441251
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Comuni Pedemontani Modenesi <br/>VIALE GRAMSCI 113 <br/>41049 <br/>SASSUOLO (MO) <br/>0536 803502 <br/> <br/>c.legambiemte.c.p.modenesi@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0389242,
+          44.6774261
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL PONTE DI NONANTOLA <br/>Via 2 GIUGNO 1946, 3 <br/>41015 <br/>NONANTOLA (MO) <br/> <br/> <br/>legambiente.nonantola@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0983093,
+          44.0786976
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE CARRARA <br/>Via Monteverde, 51 <br/>54033 <br/>CARRARA (MS) <br/>0585 841592 <br/>328 7323793 <br/>info@legambientecarrara.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.11423,
+          44.03041
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MASSA <br/> Via degli Oliveti, 84 <br/>54100 <br/>MASSA (MS) <br/> <br/>3319154062 <br/>legambiente.massa@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9602275,
+          44.2310493
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LUNIGIANA <br/>VIA MAGRA 2 <br/>54016 <br/>LICCIANA NARDI (MS) <br/>0187422598 <br/>338 5814482 <br/>info@lunigianasostenibile.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6117605,
+          40.6649316
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MATERA <br/>rione pianelle <br/>75100 <br/>MATERA (MT) <br/>3290229471 <br/> <br/>legambientematera@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6742484,
+          40.2096787
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente POLICORO <br/>Via Brescia n. 13 <br/>75025 <br/>POLICORO (MT) <br/>0835/973396 <br/>3382936350 <br/>legambientepolicoro@hotmail.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5618257,
+          40.2928928
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MONTALBANO <br/>VIA ROMA 63 <br/>75023 <br/>MONTALBANO JONICO (MT) <br/> <br/>3277638797 <br/>legamb.montalbanoj@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5611619,
+          40.38906
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Legambiente Pisticci <br/>CORSO METAPONTO 172 <br/>75015 <br/>PISTICCI (MT) <br/> <br/>3285959080 <br/>legambientepisticci@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.217176,
+          40.554883
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ISOLA DI CAPRI <br/>Piazza San Nicola 3 <br/>80071 <br/>ANACAPRI (NA) <br/> <br/>3384054400 <br/>legambientecapri@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.429663,
+          40.6487815
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL MELOGRANO <br/>via R. Bosco n. 772 <br/>80069 <br/>VICO EQUENSE (NA) <br/>--- <br/>3397462336 <br/>ceamelog@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2465376,
+          40.8875843
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente NAPOLI CENTRO ANTICO <br/>Via Teano,1 <br/>80145 <br/>NAPOLI (NA) <br/>081/5430750 <br/> <br/>legamnacentro@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4688141,
+          40.8449791
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente A.R.I.A. MIMMO BENEVENTANO <br/>VIA PALAZZO DEL PRINCIPE 16 <br/>80044 <br/>OTTAVIANO (NA) <br/>081/8270866 <br/> <br/>legambiente.mimmobeneventano@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.435205,
+          40.759345
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GIANCARLO SIANI <br/>CORSO UMBERTO I, 128 <br/>80058 <br/>TORRE ANNUNZIATA (NA) <br/> <br/> <br/>info@legambientetorreannunziata.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2551468,
+          40.8555962
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CENTRO DOCUMENTAZIONE <br/>PIAZZA CAVOUR 168 <br/>80137 <br/>NAPOLI (NA) <br/>081/261890 <br/> <br/>legambiente.napolicentrodocume@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4667371,
+          40.8734312
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Legambiente Circolo Somma Vesuviana <br/>VIA PIGNO 180 <br/>80049 <br/>SOMMA VESUVIANA (NA) <br/>081 8996372 <br/> <br/>gio.romano@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.06212,
+          40.819377
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BACOLI-CAMPI FLEGREI <br/>VIALE VANVITELLI 87 <br/>80070 <br/>BACOLI (NA) <br/> <br/> <br/>legambiente.bacoli@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2341423,
+          40.9035745
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LA GRU <br/>VIALE RESISTENZA LOTTO N PARCO LARA <br/>80144 <br/>NAPOLI (NA) <br/>081/7022431 <br/> <br/>aldo.bifulco@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2686658,
+          40.9149986
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PICCOLE GRANDI INIZIATIVE <br/> <br/>80022 <br/>ARZANO (NA) <br/>081/5738136 <br/> <br/>legambientearzano@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2555134,
+          40.8477868
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PARCO LETTERARIO VESUVIO <br/>VIA Mezzocannone, 119 <br/>80134 <br/>NAPOLI (NA) <br/>081 4288093 <br/>338 8408138 <br/>plvesuvio@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1283302,
+          40.822505
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Legambiente Citta Flegrea <br/>Via Barletta 24 <br/>80078 <br/>POZZUOLI (NA) <br/>3397406674 <br/> <br/>legambientecittaflegrea@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3165119,
+          40.9074978
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Legambiente Afragola <br/>via Berlinguer, snc <br/>80021 <br/>AFRAGOLA (NA) <br/>3496604669 <br/> <br/>legambiente.afragola@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4832292,
+          40.6965851
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente G.E.N. <br/>VIA S. VINCENZO 15 <br/>80053 <br/>CASTELLAMMARE DI STABIA (NA) <br/>338 4215082 <br/> <br/>n.montuori@trenitalia.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4884821,
+          40.690658
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente WOODWARDIA <br/>Via Panoramica,39 - Castellammare di Stabia <br/>80053 <br/>CASTELLAMMARE DI STABIA (NA) <br/> <br/>3475875863 <br/>circolowoodwardia@hotmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1883747,
+          40.813899
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente THOMAS SANKARA <br/>Piazza Neghelli, 10 <br/>80124 <br/>NAPOLI (NA) <br/>081/7621853 <br/> <br/>legambiente.sankara@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0625215,
+          40.9051031
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GIUGLIANO IN CAMPANIA <br/>Via Ripuaria,213 <br/>80014 <br/>GIUGLIANO IN CAMPANIA (NA) <br/> <br/> 3774684239 <br/>legambiente.giuglianoarianova@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6944512,
+          45.4772154
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SETTE FONTANE <br/>Via Goffredo Mameli, 16 <br/>28066 <br/>GALLIATE (NO) <br/>0321 806435 <br/> <br/>brsplg@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.553655,
+          45.7613967
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GLI AMICI DEL LAGO - ONLUS <br/>Via ROMA 78/80 <br/>28041 <br/>ARONA (NO) <br/> <br/> <br/>gliamicidellago@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4982767,
+          39.8106459
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ULASSAI <br/>VIA DANTE 190 <br/>08040 <br/>ULASSAI (OG) <br/>0782 787057 <br/> <br/>cea.ulassai@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3533289,
+          38.1210679
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PALERMO <br/>VIA TRIPOLI 3 <br/>90138 <br/>PALERMO (PA) <br/>091301663 <br/> <br/>legambientepalermo@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1226942,
+          38.0444016
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Partinico - 'Gino Scasso' <br/>via E. Mattei <br/>90047 <br/>PARTINICO (PA) <br/>3343674556 <br/> <br/>legambiente.partinico@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6915317,
+          37.9872367
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente L'AQUILONE <br/>Via Palermo, 26 <br/>90018 <br/>TERMINI IMERESE (PA) <br/> <br/>3272212831 <br/>legambiente814termini@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34698,
+          38.1249523
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PALERMO FUTURA <br/>VIA MALASPINA 27 <br/>90145 <br/>PALERMO (PA) <br/>3292308819 <br/> <br/>palermofutura@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3533289,
+          38.1210679
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente FRANCESCO LO JACONO <br/>VIA TRIPOLI 3 <br/>90138 <br/>PALERMO (PA) <br/>091 301663 <br/> <br/>circololegambientelojacono@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5145061,
+          38.0866358
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BAGHERIA e Dintorni <br/>via Cicerone 19 <br/>90011 <br/>BAGHERIA (PA) <br/>3661977299 <br/> <br/>legambiente.bagheriaedintorni@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2501326,
+          38.1984159
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente NATURALMENTE SICILIA <br/>Palermo, 18 <br/>90040 <br/>ISOLA DELLE FEMMINE (PA) <br/>3472908332 <br/> <br/>circolonaturalmente@legambientesicilia.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2865904,
+          38.1890272
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MESOGEO <br/>Piazza Tommaso Natale, 163 <br/>90147 <br/>PALERMO (PA) <br/> <br/>3927684921 <br/>mesogeo.legambiente@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1798024,
+          37.9352706
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GIUSEPPE GIORDANO <br/> <br/> <br/>SAN CIPIRELLO (PA) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30123,
+          37.811303
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CORLEONE <br/>Via Sant'Agostino 6 <br/>90034 <br/>CORLEONE (PA) <br/> <br/>3883488708 <br/>legambienteduerocche@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.69381679,
+          45.0490535
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PIACENZA EMILIO POLITI <br/>VIA GIORDANI 2 <br/>29121 <br/>PIACENZA (PC) <br/>0523. 332666 <br/> <br/>legambientepiacenza@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3859502,
+          44.7700875
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALTREBBIA <br/> <br/>29022 <br/>BOBBIO (PC) <br/> <br/> <br/>legambientetrebbia@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.856748,
+          45.408107
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ELEONORA CHINNI LEGAMBIENTE PD <br/>PIAZZA CADUTI DELLA RESISTENZA 6 <br/>35138 <br/>PADOVA (PD) <br/>049 8561212 <br/> <br/>circolo@legambientepadova.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0324621,
+          45.2947669
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente L'ARCA DI NOE' DELLA SACCISICA <br/>VIA CASTELLO,12 <br/>35028 <br/>PIOVE DI SACCO (PD) <br/>340-4881745 <br/> <br/>circolo@legambientepiove.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6557062,
+          45.2258167
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente DAI COLLI ALL'ADIGE <br/>VIALE FIUME 55 <br/>35042 <br/>ESTE (PD) <br/>0429 2049 <br/>3290910771 <br/>legambiente.este@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8408947,
+          45.4812235
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE VOLONTARIATO LIMENA <br/>via Garolla 48 <br/>35010 <br/>LIMENA (PD) <br/> <br/>3472200598 <br/>segreteria@legambientelimena.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.856748,
+          45.408107
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PADOVA 2 APS <br/>PIAZZA CADUTI DELLA RESISTENZA 6 <br/>35138 <br/>PADOVA (PD) <br/>0498561212 <br/> <br/>aps@legambientepadova.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.967113,
+          45.393597
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LA SARMAZZA <br/>Via Milano, 1/1 <br/>35020 <br/>SAONARA (PD) <br/>3346569406 <br/> <br/>legambientesarmazza@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0484304,
+          45.2739091
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PIOVE DI SACCO APS <br/> <br/>35020 <br/>ARZERGRANDE (PD) <br/>340-4881745 <br/> <br/>m.savioli@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8138368,
+          45.4114751
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SELVAZZANO <br/>Via Pelosa, 47 <br/>35030 <br/>SELVAZZANO DENTRO (PD) <br/>328 8226529 <br/>328 8226529 <br/>legambienteselvazzano@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.86462,
+          45.33779
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PRATIARCATI <br/> <br/>35020 <br/>ALBIGNASEGO (PD) <br/> <br/> <br/>legambientepratiarcati@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0031311,
+          42.1565336
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MAJELLA <br/>C.SO BERNARDI 28 <br/>65023 <br/>CARAMANICO TERME (PE) <br/>3291252405 <br/> <br/>legambientemajella@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7014749,
+          42.9508683
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente FOLIGNO <br/> <br/>06034 <br/>FOLIGNO (PG) <br/> <br/>3402957289 <br/>legambientefoligno@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7385656,
+          42.7435673
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SPOLETO <br/>VIA XVII SETTEMBRE SNC <br/>06049 <br/>SPOLETO (PG) <br/>0743 225925 <br/> <br/>legambientespoleto@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3923052,
+          43.1116688
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PERUGIA <br/>Via della Viola 1 <br/>06122 <br/>PERUGIA (PG) <br/>0755721021 <br/> <br/>info@legambienteumbria.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6294376,
+          43.6632739
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALDERA <br/>VIA FIUMALBI 9 <br/>56025 <br/>PONTEDERA (PI) <br/>0587/56200 <br/> <br/>legambientevaldera@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.414372,
+          43.7225696
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PISA <br/> <br/>56127 <br/>PISA (PI) <br/>050 553435 <br/> <br/>legambiente@legambientepisa.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.680024,
+          45.9699866
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente FABIANO GRIZZO <br/>VIA CARNARO,10 <br/>33170 <br/>PORDENONE (PN) <br/> <br/>335-7504239 <br/>pordenone@legambientefvg.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.661187,
+          46.159311
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PREALPI CARNICHE <br/>VIA CIOTTI 11 <br/>33086 <br/>MONTEREALE VALCELLINA (PN) <br/>0427 72356 <br/> <br/>prealpicarniche@legambientefvg.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8995246,
+          46.1637903
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PINZANO AL TAGLIAMENTO <br/> Via Borgo Ampiano 1 <br/>33094 <br/>PINZANO AL TAGLIAMENTO (PN) <br/> <br/>3711254141 <br/>pinzano@legambientefvg.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0949142,
+          43.8797457
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PRATO APS <br/>VIA TINAIA, 15 <br/>59100 <br/>PRATO (PO) <br/>0574 577804 <br/> <br/>info@legambienteprato.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0949142,
+          43.8797457
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PRATO VOLONTARIATO <br/>VIA TINAIA, 15 <br/>59100 <br/>PRATO (PO) <br/>0574 577804 <br/> <br/>volontariato@legambienteprato.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3300557,
+          44.7870634
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PARMA <br/>VIA BIZZOZERO 19 <br/>43123 <br/>PARMA (PR) <br/>0521 238478 <br/> <br/>info@legambienteparma.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0493354,
+          45.0158035
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente AIRONI DEL PO <br/>VIA MOGADISCIO 47 <br/>43010 <br/>POLESINE PARMENSE (PR) <br/>3487497980 <br/> <br/>aironidelpo@fiumepo.eu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1114152,
+          44.6729547
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente FORNOVO TARO <br/>VIA PIO LA TORRE, 1/A <br/>43045 <br/>FORNOVO DI TARO (PR) <br/> <br/> <br/>legambiente@legambientefornovo.eu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3835448,
+          44.6381095
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALTERMINA ONLUS <br/>VIA TOSCANINI 8 <br/>43029 <br/>TRAVERSETOLO (PR) <br/> <br/> <br/>legambientevaltermina1@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7668559,
+          44.488667
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ALTA VAL TARO <br/>via Filippo Corridoni 45 <br/>43043 <br/>BORGO VAL DI TARO (PR) <br/> <br/>333.9913083 <br/>legambientealtavaltaro@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.997658,
+          43.892127
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente AGLIANA <br/> <br/>51031 <br/>AGLIANA (PT) <br/>0574673398 <br/>3471063650 <br/>legambienteagliana@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9127769,
+          43.9338965
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PISTOIA <br/>VIA DEI CANCELLIERI 30 <br/>51100 <br/>PISTOIA (PT) <br/> <br/> <br/>legambientept@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7571978,
+          43.8861381
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALDINIEVOLE <br/>Via Primo Maggio, 47 <br/>51010 <br/>MASSA E COZZILE (PT) <br/> <br/> <br/>legambientevaldinievole@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9890478,
+          43.8670848
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE QUARRATA <br/>Via Giosue Carducci, 20 <br/>51039 <br/>QUARRATA (PT) <br/>0573 717023 <br/>338 2253884 <br/>info@legambientequarrata.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.905856,
+          43.904849
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL RAGUSELLO <br/>VIA DEL MIRALFIORE 6 <br/>61122 <br/>PESARO (PU) <br/>3485284867 <br/> <br/>legambientepesaro@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.631107,
+          43.7231935
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LE CESANE <br/>VIALE ROSSELLI 1 <br/>61029 <br/>URBINO (PU) <br/>0722350301 <br/> <br/>lecesane@legambientemarche.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1506925,
+          45.1840111
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL BARCE' <br/>VIA CARDANO 84 <br/>27100 <br/>PAVIA (PV) <br/>038233320 <br/> <br/>legambientepavia@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0060401,
+          44.9932766
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VOGHERA - OLTREPO' <br/>via Felice Cavallotti 16 <br/>27058 <br/>VOGHERA (PV) <br/> <br/>338/2044004 <br/>legambientevoghera@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6678872,
+          45.285349
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL COLIBRI' <br/>via Mulino Grande 1 <br/>27020 <br/>NICORVO (PV) <br/>038452269 <br/> <br/>legambientelomellina2@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9974925,
+          45.1834476
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERRE D'ACQUA <br/>VIA TAZIO NUVOLARI, 17 <br/>27027 <br/>GROPELLO CAIROLI (PV) <br/>0382815860 <br/> <br/>susannanep@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6678872,
+          45.285349
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CIRCOLO LEGAMBIENTE LOMELLINA - CEA LIBELLULE & COLIBRI' <br/> <br/>27020 <br/>NICORVO (PV) <br/>0384 52269 <br/> <br/>legambientelomellina2@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8905349,
+          40.2874586
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VAL D'AGRI <br/>bosco Maglie snc <br/>85050 <br/>GRUMENTO NOVA (PZ) <br/>3337321941 <br/>3335831931 <br/>legambienteagri@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8405417,
+          40.0501128
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LAURIA <br/>CASALETTO N.7 <br/>85044 <br/>LAURIA (PZ) <br/> <br/> <br/>legambientelauria@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8056041,
+          40.6404067
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente KEN SARO WIWA <br/> <br/>85100 <br/>POTENZA (PZ) <br/>0971 650750 <br/> <br/>info@legambientepotenza.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7619543,
+          40.7728006
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente AVIGLIANO <br/>C.DA BADIA ,173 <br/>85020 <br/>AVIGLIANO (PZ) <br/>0971/64229 <br/>3479348129 <br/>ielmino@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2874477,
+          40.1490282
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LA FONTE <br/> <br/>85038 <br/>SENISE (PZ) <br/> <br/> <br/>legambiente.senise@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1840957,
+          40.1901085
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente 'SCURAME'' <br/>VIA ALESSANDRO GIURA 32 <br/>85030 <br/>CASTRONUOVO DI SANT'ANDREA (PZ) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7956278,
+          40.6493083
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SVA Legambiente Potenza <br/>Viale firenze 60/c <br/>85100 <br/>POTENZA (PZ) <br/>0971650750 <br/>3208990497 <br/>rpolichiso@legambientebasilicata.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7244095,
+          39.9942678
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Legambiente Maratea SKY&SEA <br/>Via A. MANDARINI, 56 <br/>85046 <br/>MARATEA (PZ) <br/>0973877280 <br/>3476463238 <br/>legambiente.maratea@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2042098,
+          44.4145107
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MATELDA <br/>VIA ORIANI 44 <br/>48121 <br/>RAVENNA (RA) <br/> <br/>335 5955930 <br/>info@legambiente.ravenna.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8685782,
+          44.2894506
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LAMONE FAENZA <br/>Via Volpaccino n 60 <br/>48018 <br/>FAENZA (RA) <br/>0546062077 <br/> <br/>legambientelamone@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95805,
+          44.4686106
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente A. CEDERNA <br/>Via Vincenzo Monti, 3 <br/>48034 <br/>FUSIGNANO (RA) <br/>3483697503 <br/> <br/>legambiente.lugo@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3476822,
+          44.2635492
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CERVIA - MILANO MARITTIMA <br/> <br/>48015 <br/>CERVIA (RA) <br/>05441766254 <br/> <br/>legambientecervia@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.64722,
+          38.11044
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente REGGIO CALABRIA <br/>Via Demetrio Tripepi, 110 <br/>89125 <br/>REGGIO DI CALABRIA (RC) <br/> <br/> <br/>legambiente.rc@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4025367,
+          38.3210779
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ROCCELLA IONICA_COSTA DEI GELSOMINI <br/>Via CAPPELLERI 19 <br/>89047 <br/>ROCCELLA IONICA (RC) <br/> <br/> <br/>legambiente.rj@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4308613,
+          44.6246501
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VAL D'ENZA <br/>VIA GHIRARDI 1 <br/>42020 <br/>SAN POLO D'ENZA (RE) <br/> <br/> <br/>legambiente.valdenza@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6517185,
+          44.6765259
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente REGGIO EMILIA <br/>VIA MAZZACURATI, 11 <br/>42122 <br/>REGGIO NELL'EMILIA (RE) <br/>0522 431166 <br/> <br/>massimo@legambientereggioemilia.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7112131,
+          44.8534999
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente NOVELLARA AMBIENTE <br/>VIA MASSIMO D'AZEGLIO 42 <br/>42017 <br/>NOVELLARA (RE) <br/>0522 652048 <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3588863,
+          44.3226036
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LIGONCHIO <br/>VIA POPOLARE 140 <br/>42039 <br/>LIGONCHIO (RE) <br/>347/4878744 <br/> <br/>info@ostellodeibalocchi.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4006094,
+          44.433842
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE APPENNINO REGGIANO <br/> <br/>42035 <br/>CASTELNOVO NE' MONTI (RE) <br/> <br/> <br/>legambienteappenninoreggiano@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7187665,
+          36.9210551
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL CARRUBO <br/>via umberto giordano 55 <br/>97100 <br/>RAGUSA (RG) <br/>0932/247439 <br/> <br/>legambienteragusa@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.761543,
+          36.855145
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MELOGRANO <br/>VICO NATOLI N.7 <br/>97015 <br/>MODICA (RG) <br/>335/6843981 <br/> <br/>legambientemodica@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9032876,
+          36.786108
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SIKELION <br/>via Genova 19 <br/>97014 <br/>ISPICA (RG) <br/>3276282918 <br/> <br/>sikelion.legambiente@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.693635,
+          36.785164
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CIRCOLO SCICLI 'Kiafura' <br/>Via NOCE 24 <br/>97018 <br/>SCICLI (RG) <br/> <br/>3356382007 <br/>alessia.gambuzza70@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6876246,
+          42.2682668
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente BASSA SABINA <br/> <br/> <br/>POGGIO MIRTETO (RI) <br/> <br/> <br/>info@legambientebassasabina.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8618193,
+          42.4044691
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CENTRO ITALIA <br/>VIA DI MEZZO 190 <br/>02100 <br/>RIETI (RI) <br/>3286982778 <br/> <br/>info@legambienterieti.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5067883,
+          41.9339676
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE ONLUS <br/>Via SALARIA 403 <br/>00199 <br/>ROMA (RM) <br/>06862681 <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6288085,
+          41.4517081
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LE RONDINI <br/>PIAZZA PALOMBA <br/>00042 <br/>ANZIO (RM) <br/> <br/>3319863577 <br/>circolo_legambiente@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6032489,
+          41.7707932
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL RICCIO <br/>VIA GIOVANNI PRATI 64 <br/>00047 <br/>MARINO (RM) <br/>0693546299 <br/>3346164311 <br/>nicola.passaretti@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4982572,
+          41.889187
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente OCCHI VERDI <br/> <br/>00184 <br/>ROMA (RM) <br/>06/85358077-51 <br/> <br/>posta@legambientelazio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.791578,
+          41.95277
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TIVOLI <br/>VIA NAZ. TIBURTINA 127 <br/>00019 <br/>TIVOLI (RM) <br/>0774318093 <br/> <br/>giainnocenti@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915504,
+          41.8583463
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GARBATELLA <br/>VIA R. RAIMONDI GARIBALDI 30 <br/>00145 <br/>ROMA (RM) <br/>06/5110949 <br/> <br/>circololegambientegarbatella@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3979747,
+          41.6694106
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente OSTIA-LITORALE ROMANO <br/>VIA LITORANEA KM. 8 <br/>00122 <br/>ROMA (RM) <br/>06/56470041 <br/> <br/>legambiente@ostiamediterranea.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5097274,
+          41.9319083
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CITTA' FUTURA <br/> <br/>00199 <br/>ROMA (RM) <br/>06/25204808 <br/>3477334494 -3703073567 <br/>cittafuturacircolo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4002708,
+          41.9242288
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ECOIDEA-LIDIA SERENARI <br/>Via Federico Borromeo, 57 - 00168 Roma <br/>00168 <br/>ROMA (RM) <br/>06/30810889 <br/>3271026789 <br/>ecoideamm56@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.532671,
+          41.9391449
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ANIENE <br/> <br/>00141 <br/>ROMA (RM) <br/>06/8123573 <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5067883,
+          41.9339676
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VOLONTARIAMBIENTE <br/>VIA SALARIA 403 <br/>00199 <br/>ROMA (RM) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5165499,
+          41.8977752
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LE PERSEIDI DI SAN LORENZO <br/>VIA DEI SABELLI 119 <br/>00185 <br/>ROMA (RM) <br/> <br/>348 6997060 <br/>leperseidi@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5007191,
+          42.1270312
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CASTELNUOVO DI PORTO <br/>VIA GARIBALDI 37 <br/>00060 <br/>CASTELNUOVO DI PORTO (RM) <br/> <br/> <br/>legambiente_castelnuovodiporto@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5742233,
+          41.9311488
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GIANO <br/>VIA R. MAJETTI 70 <br/>00156 <br/>ROMA (RM) <br/> <br/> <br/>g.dursi@legambientelazio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5003854,
+          41.9123817
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CIRCOLO LEGAMBIENTE MONDI POSSIBILI <br/>VIA NIZZA, 72 <br/>00198 <br/>ROMA (RM) <br/>0687761893 <br/>3280651517 <br/>legambientemondipossibili@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3590272,
+          41.9193842
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PARCO DELLA CELLULOSA <br/>VICOLO DELLA CELLULOSA, 1 <br/>00166 <br/>ROMA (RM) <br/>333 8814295 <br/> <br/>posta@legambientecellulosa.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4445513,
+          41.8722054
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MONTEVERDE - 'ILARIA ALPI' <br/>Via Edoardo Jenner, 54 <br/>00153 <br/>ROMA (RM) <br/> <br/> <br/>legambientemonteverde@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4939957,
+          41.9019196
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GEA ROMA <br/>Via MODENA 15 <br/>00184 <br/>ROMA (RM) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4194935,
+          42.0378738
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente FORMELLO <br/>Via CASTEL DE CEVERI ,1 <br/>00060 <br/>FORMELLO (RM) <br/> <br/>3409839129 <br/>legambiente.formello@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47138,
+          44.136727
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente STEFANO CAMPANA <br/>Via Conca 4 <br/>47814 <br/>BELLARIA-IGEA MARINA (RN) <br/> <br/> <br/>circololegambientebellaria@hotmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3187884,
+          43.9257402
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Legambiente Valmarecchia APS <br/>Via Romagna n°6 <br/>47863 <br/>NOVAFELTRIA (RN) <br/> <br/> <br/>legambientevalmarecchia@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0881365,
+          45.0263633
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ADRIA - DELTA DEL PO <br/>Via Padre Kolbe 18 <br/>45011 <br/>ADRIA (RO) <br/>3887370380 <br/> <br/>legambiente.deltadelpo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2389396,
+          45.0729851
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ROSOLINA - LOREO <br/>Via Pineta 20/e <br/>45010 <br/>ROSOLINA (RO) <br/> <br/>3381294458 <br/>simonezeta@inwind.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.79286,
+          45.06776
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VOLONTARIATO ROVIGO - CIRCOLO A. LANGER <br/>Corso DEL POPOLO 276 <br/>45100 <br/>ROVIGO (RO) <br/> <br/> <br/>info@legambienterovigo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7758997,
+          40.7300426
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALLE DELL'IRNO <br/>VIA ANDREA SABATINI 13 <br/>84081 <br/>BARONISSI (SA) <br/>089 954304 <br/> <br/>info@legambienteirno.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0769699,
+          40.4248153
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente FREEWHEELING <br/> <br/>84047 <br/>CAPACCIO (SA) <br/> <br/> <br/>posta@legambientepaestum.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.884121,
+          40.643444
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente OCCHI VERDI <br/>via stadio snc <br/>84098 <br/>PONTECAGNANO FAIANO (SA) <br/>089/383202 <br/> <br/>legambienteocchiverdi@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5725688,
+          40.3671348
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALLO DI DIANO <br/>VIA MATINELLA 54 <br/>84030 <br/>TEGGIANO (SA) <br/>0975/70229 <br/> <br/>vmazza@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3454688,
+          40.4002516
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SAMMARO <br/>VIA IV NOVEMBRE N°100 <br/>84020 <br/>ROSCIGNO (SA) <br/> <br/> <br/>circololegambientesammaro@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5994485,
+          40.6397772
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VIVI LA NATURA <br/>VIA DELLE CARTIERE 27 <br/>84011 <br/>AMALFI (SA) <br/> <br/> <br/>legambienteamalfi@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.054478,
+          40.619878
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SILARIS <br/>Via Attrizzi , 27 <br/>84025 <br/>EBOLI (SA) <br/>0828 211666 <br/> <br/>legambiente.eboli@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.696078,
+          40.776638
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente 'FRANCESCO DI PACE' - CASTEL SAN GIORGIO <br/>VIA LUIGI STURZO 7 <br/>84083 <br/>CASTEL SAN GIORGIO (SA) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9442775,
+          40.2342513
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente UNA VITA PER IL MARE <br/>Via M. Passero <br/>84048 <br/>CASTELLABATE (SA) <br/> <br/>3383571980 <br/>legambientecastellabate@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.76883,
+          40.68569
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ORIZZONTI <br/>Via Valerio Laspro n. 8/C <br/>84126 <br/>SALERNO (SA) <br/> <br/>3285327134 <br/>legambientepersalerno@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.980107,
+          40.612487
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VENTO IN FACCIA <br/>via Adige, 13 <br/>84091 <br/>BATTIPAGLIA (SA) <br/>3922816044 <br/> <br/>info@legambienteventoinfaccia.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6474887,
+          40.7460596
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEONIA <br/> <br/>84014 <br/>NOCERA INFERIORE (SA) <br/> <br/> <br/>info@leonia-legambiente.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5712076,
+          40.7381073
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE OIKOS ANGRI <br/>corso italia, 69 <br/>84012 <br/>ANGRI (SA) <br/> <br/>3394406953 <br/>legambienteangri@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7013419,
+          40.7073616
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERRA METELLIANA <br/>Viale G. Marconi, 45 <br/>84013 <br/>CAVA DE' TIRRENI (SA) <br/>0899956998 <br/>3474055449 <br/>info@legambientecava.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6210013,
+          40.7470089
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE PAGANI <br/>VIA ALCIDE DE GASPERI, 8 <br/>84016 <br/>PAGANI (SA) <br/>3206286111 <br/>3206286111 <br/>legambientepagani@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0525713,
+          40.323628
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ANCEL KEYS TORCHIARA - ALTO CILENTO <br/>Piazza Torre s.n.c <br/>84076 <br/>TORCHIARA (SA) <br/> <br/> <br/>info@legambientetorchiara.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9912632,
+          40.3346048
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente STELLA MARIS <br/>via Piano delle Pere 1 <br/>84043 <br/>AGROPOLI (SA) <br/>0974823200 <br/>3357154446 <br/>legambientestellamaris@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3384234,
+          43.3178564
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SIENA <br/>VIA VIVALDI 51 <br/>53100 <br/>SIENA (SI) <br/>3382487577 <br/>3382487577 <br/>info@legambientesiena.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8278533,
+          43.0580433
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERRA E PACE APS <br/>VIA DANTE 27 <br/>53042 <br/>CHIANCIANO TERME (SI) <br/>0578 63685 <br/> <br/>cignolegambiente@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.40447189,
+          46.3211808
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALCHIAVENNA <br/>PIAZZA SAN PIETRO <br/>23022 <br/>CHIAVENNA (SO) <br/>345-4807658 340 <br/> <br/>lory_tam@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8387739,
+          44.1156466
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente NUOVA ECOLOGIA <br/>VIA XXIV MAGGIO 357 <br/>19122 <br/>LA SPEZIA (SP) <br/>0187 501056 <br/> <br/>info@legambientespezia.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9120355,
+          44.0772106
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LERICI <br/>PIAZZA PICEDI 13 <br/>19032 <br/>LERICI (SP) <br/>3275790231 <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0174276,
+          44.1015853
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALDIMAGRA LEGAMBIENTE VOLONTARIATO <br/> <br/> <br/>CASTELNUOVO MAGRA (SP) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1837006,
+          37.1578583
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente L'ANATROCCOLO <br/> <br/>96010 <br/>PRIOLO GARGALLO (SR) <br/>0931771428 <br/> <br/>legambienteanatroccolo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2216971,
+          37.2500684
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente C.I.P.A. <br/> <br/> <br/>AUGUSTA (SR) <br/> <br/> <br/>ciacchella@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.291013,
+          37.0722467
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CHICO MENDES <br/>P.zza Santa Lucia 20 <br/>96100 <br/>SIRACUSA (SR) <br/> <br/> <br/>legambientesr@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0854597,
+          37.2520899
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TIMPA DDIERI MELILLI <br/>Via DELLE ORCHIDEE 8 <br/>96010 <br/>SIRACUSA (SR) <br/>0931950150 <br/>3248723214 <br/>emilia.ferrarabis@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0284892,
+          37.1607965
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ECOPOLIS SORTINO <br/>via Battisti, 41 <br/>96010 <br/>SORTINO (SR) <br/> <br/> <br/>legambientesortino@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0651945,
+          36.8924433
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente NOTO <br/> <br/>96017 <br/>NOTO (SR) <br/> <br/> <br/>info@legambientenoto.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3192949,
+          40.5579517
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SASSARI-ALGHERO <br/> <br/>07041 <br/>ALGHERO (SS) <br/> <br/>3470549616 <br/>lucianoderiu@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6277086,
+          39.5390145
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GUSPINI <br/>VIALE MATTEOTTI, 16 - FRAZ. MONTEVECCHIO - GUSPINI <br/>09036 <br/>GUSPINI (SU) <br/> <br/>3456495742 <br/>legambiente.guspini@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.03563,
+          40.579213
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PALAGIANO <br/>CORSO DE GASPERI 13 <br/>74019 <br/>PALAGIANO (TA) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2518807,
+          40.4662846
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TARANTO <br/>via Temenide 30a <br/>74123 <br/>TARANTO (TA) <br/> <br/>3391903406 <br/>legambiente.taranto@legambiente.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3534046,
+          40.3799843
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PULSANO <br/>via Paisiello 1/A <br/>74026 <br/>PULSANO (TA) <br/> <br/>360515555 <br/>legambientepulsano@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1184062,
+          40.5910849
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERRA IONICA <br/> <br/>74016 <br/>MASSAFRA (TA) <br/>0994741694 <br/>3404151746 <br/>legambienteterraj@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3463408,
+          40.7035037
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Circolo Legambiente Valle d'Itria - Martina Franca <br/>Viale Europa n. 117 <br/>74015 <br/>MARTINA FRANCA (TA) <br/> <br/>3388545741 <br/>circololegambientevalleditria@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.636369,
+          40.3970226
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MANDONION <br/>Via Maruggio, 19 <br/>74024 <br/>MANDURIA (TA) <br/>0999735681 <br/>3286139179 <br/>ambiente.manduria@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5636446,
+          40.2984419
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente DUNE DI CAMPOMARINO <br/>PIAZZALE ITALIA <br/>74020 <br/>MARUGGIO (TA) <br/> <br/>3403104202 <br/>legambientemaruggio@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5511793,
+          40.409208
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente 'DON ANTONIO MARINOTTI' <br/>Via M. del Prete nr. 31 <br/>74028 <br/>SAVA (TA) <br/> <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7006834,
+          42.6620011
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TERAMO <br/>VIA CERULLI IRELLI 8 <br/>64100 <br/>TERAMO (TE) <br/>335 1048320 <br/> <br/>info@scuolaverde.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1224654,
+          46.0684545
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TRENTO <br/>VIA OSS MAZZURANA 54 <br/>38122 <br/>TRENTO (TN) <br/>0461- 237336 <br/> <br/>soci@legambientetrento.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7086752,
+          44.8462667
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL PLATANO <br/>Via San Francesco di Sales 188 <br/>10022 <br/>CARMAGNOLA (TO) <br/> <br/>3316201347 <br/>ilplatano.legambiente@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.54032999,
+          45.07115
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente RIVOLI <br/>CORSO FRANCIA 148 BIS <br/>10098 <br/>RIVOLI (TO) <br/> <br/>3332398152 <br/>legambiente.rivoli@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.34966,
+          44.86906
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PINEROLO <br/>Stradale Baudenasca, 17 <br/>10064 <br/>PINEROLO (TO) <br/>0121323895 <br/> <br/>legambiente.pinerolo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2089893,
+          44.819588
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VAL PELLICE <br/> <br/>10066 <br/>TORRE PELLICE (TO) <br/> <br/>3356522989 <br/>legambientevalpellice@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6323466,
+          45.0970601
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente L'AQUILONE <br/>via Pietro Cossa 293/12 <br/>10151 <br/>TORINO (TO) <br/> <br/>3387084540 <br/>CircoloLAquiloneLegambiente@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.82306,
+          45.27238
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PASQUALE CAVALIERE <br/>VIA CASTELLO 6 <br/>10090 <br/>FOGLIZZO (TO) <br/> <br/> <br/>clegpasqualecavaliere@yahoo.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6877371,
+          45.0651111
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente METROPOLITANO <br/>VIA GIOLITTI, 21 <br/>10123 <br/>TORINO (TO) <br/> <br/>338 3604363 <br/>legambientemetropolitano@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8798454,
+          45.4581523
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente DORA BALTEA <br/>via Dora Baltea, 40/b <br/>10015 <br/>IVREA (TO) <br/> <br/>3490702316 <br/>info@legambientedorabaltea.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.77729169,
+          45.463735
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CHIUSELLA VIVO <br/> <br/>10010 <br/>ALICE SUPERIORE (TO) <br/>335/5966770 <br/> <br/>circolochiusellavivo@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5203288,
+          45.0919037
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CEA CASCINA GOVEAN <br/>VIA MARCONI, 44/B <br/>10091 <br/>ALPIGNANO (TO) <br/>011/9787392 <br/> <br/>ceacascinagovean@hotmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5865634,
+          45.0897785
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente DORA IN PO-I - TERRE DELL'OVEST <br/> <br/>10093 <br/>COLLEGNO (TO) <br/> <br/> <br/>dorainpoi.circololegambiente@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.686864,
+          45.0703393
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MOLECOLA <br/>VIA MARIA AUSILIATRICE, 45 <br/>10152 <br/>TORINO (TO) <br/> <br/>3935486741 <br/>info@molecolalegambiente.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7728777,
+          45.1383266
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SETTIMO TORINESE <br/> <br/> <br/>SETTIMO TORINESE (TO) <br/> <br/> <br/>legambientesettimo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.673674,
+          45.081239
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PROTEZIONE CIVILE PIEMONTE <br/>Via MARIA AUSILIATRICE 45 <br/>10152 <br/>TORINO (TO) <br/>011 2215851 <br/>3929214116 <br/>francesca.galante@legambientepiemonte.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.70122439,
+          45.0694452
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SPAZIO19 <br/>Via CESARE BALBO, 19 <br/>10124 <br/>TORINO (TO) <br/>01119824899 <br/> <br/>info@spazio19.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57525,
+          45.02678
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente AMBIENTE E SALUTE BEINASCO <br/>VIA MIRAFIORI 25/1 <br/>10092 <br/>BEINASCO (TO) <br/> <br/>329 3006957 - 335 6775169 <br/>legambientebeinasco@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.793538,
+          37.6763819
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CRIMISO <br/>Piazza Regina Margherita 34 <br/>91022 <br/>CASTELVETRANO (TP) <br/>3286528563 <br/> <br/>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5899615,
+          37.6550933
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente FATA MORGANA <br/> <br/>91026 <br/>MAZARA DEL VALLO (TP) <br/> <br/> <br/>legambientemazara@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0130727,
+          37.7594375
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALLE DEL BELICE <br/>VIA VENEZIA snc <br/>91020 <br/>SALAPARUTA (TP) <br/> <br/> <br/>legambientebelice@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3058268,
+          37.9198301
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente EGADI <br/>S.P. PUNTA SOTTILE, 13 <br/>90123 <br/>FAVIGNANA (TP) <br/>3290677623 <br/> <br/>legambienteegadi@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4660979,
+          37.8076144
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE MARSALA <br/>VIA TRAPANI,4 <br/>91025 <br/>MARSALA (TP) <br/>0923.952689 <br/>3477508494 <br/>legambientemarsala@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.684617,
+          38.0810626
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CUSTONACI-SAN VITO LO CAPO 'PIZZO COFANO' <br/>VIA PALMIERI 37 <br/>91015 <br/>CUSTONACI (TP) <br/>3292126783 <br/> <br/>legambientecustonaci@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5506727,
+          38.0087557
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente NAUTILUS <br/>via n.gervasi 11 <br/>91100 <br/>TRAPANI (TP) <br/> <br/>3398696016 <br/>legambientetrapanier@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4121801,
+          42.558195
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente AMERINO <br/>Via Garibaldi, 28 <br/>05022 <br/>AMELIA (TR) <br/>0744 978340 <br/> <br/>legambiente.amelia@tiscali.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.66281,
+          42.498757
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente STRONCONE <br/>VIA DELFINI,11 <br/>05039 <br/>STRONCONE (TR) <br/>074460140 <br/>3486037443 <br/>stroncone@legambienteumbria.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7797068,
+          45.6532042
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente Circolo VERDEAZZURRO - via Donizetti 5/a - 34133 Trieste <br/>via Donizetti, 5/a <br/>34133 <br/>TRIESTE (TS) <br/> <br/>3663430369 <br/>info@legambientetrieste.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1334829,
+          45.8746682
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SERNAGLIA DELLA BATTAGLIA <br/> <br/>31020 <br/>SERNAGLIA DELLA BATTAGLIA (TV) <br/> <br/>339 7831437 <br/>legambientesernaglia@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2439721,
+          45.6675315
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ICARO <br/>VIA CORNAROTTA, 9 <br/>31100 <br/>TREVISO (TV) <br/>3406611234 <br/>000 <br/>legambiente.treviso@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.11673,
+          45.72487
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente GRUPPO SINTESI <br/>PIAZZA S.GERARDO 1 <br/>31040 <br/>TREVIGNANO (TV) <br/> <br/> <br/>legambiente.trevigna@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2286777,
+          45.7846461
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PIAVENIRE <br/>VICOLO TRIESTE 10/12 <br/>31030 <br/>ARCADE (TV) <br/> <br/>3472628836 <br/>legambientepiavenire@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2926206,
+          45.970005
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE DEL VITTORIESE <br/>VIA PUCCINI 8 <br/>31029 <br/>VITTORIO VENETO (TV) <br/> <br/>3465205558 <br/>legambiente.vittoriese@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2020041,
+          46.0854884
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente UDINE <br/>VIA BRESCIA 3 LOC. RIZZI <br/>33100 <br/>UDINE (UD) <br/>0432402934 <br/>389 8066350 <br/>udine@legambientefvg.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0390809,
+          46.368282
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente DELLA CARNIA-VAL CANALE-CANAL DEL FERRO <br/> <br/>33020 <br/>CAVAZZO CARNICO (UD) <br/>0433 2226 <br/> <br/>marco.lepre@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9897087,
+          45.8872903
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente DEL MEDIO FRIULI <br/> <br/> <br/>VARMO (UD) <br/>339 6907074 <br/> <br/>mediofriuli@legambientefvg.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.139424,
+          46.2777685
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente DELLA PEDEMONTANA GEMONESE <br/>Via S. Giovanni, 20 <br/>33013 <br/>GEMONA DEL FRIULI (UD) <br/>3487046312 <br/> <br/>pedemontanagemonese@legambientefvg.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2415673,
+          46.0582161
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LAURA CONTI <br/>VIA LEOPARDI 118 <br/>33100 <br/>UDINE (UD) <br/>0432 295483 <br/> <br/>circolo.lauraconti@legambientefvg.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.592755,
+          45.770012
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ANGERA <br/>VIA CAMPACCINO, 40 <br/>21021 <br/>ANGERA (VA) <br/>0331/931305 <br/> <br/>vtognoli@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8959612,
+          45.820969
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CANTELLO <br/> <br/>21050 <br/>CANTELLO (VA) <br/>0332418045 <br/> <br/>legambientecantello@virgilio.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6133511,
+          45.9131543
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALCUVIA E VALLI DEL LUINESE <br/> <br/>21014 <br/>LAVENO MOMBELLO (VA) <br/> <br/> <br/>luino@legambiente.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7936663,
+          45.6477684
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente ERCOLE FERRARIO <br/>VIA CHECCHI 21 <br/>21013 <br/>GALLARATE (VA) <br/> <br/> <br/>legambientegallarate@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6120782,
+          45.8139584
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LA FORNACE DI ISPRA <br/> <br/>21027 <br/>ISPRA (VA) <br/> <br/> <br/>lafornace.ispra@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.831042,
+          45.8191717
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VARESE <br/>Rainoldi 14 <br/>21100 <br/>VARESE (VA) <br/>0332 231999 <br/> <br/>legambiente.varese@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8119097,
+          45.7477175
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CASTRONNO <br/> <br/>21040 <br/>CASTRONNO (VA) <br/> <br/> <br/>zaltronlino@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8601454,
+          45.8616394
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VAL CERESIO <br/>VIA FOSCARINI 15/17 <br/>21051 <br/>ARCISATE (VA) <br/> <br/> <br/>legambientevalceresio.onlus@pec.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8210379,
+          45.6642599
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL PRESIDIO <br/>VIA VECCHIA VILLA 45 <br/>21012 <br/>CASSANO MAGNAGO (VA) <br/> <br/> <br/>cassano.magnago@legambiente.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.87392219,
+          45.6680366
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VALLE OLONA <br/>VIA ROSMINI 8 <br/>21054 <br/>FAGNANO OLONA (VA) <br/> <br/> <br/>legambiente.valleolona@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0292674,
+          45.6339125
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente AMBIENTE SARONNO <br/>VIA MONTE PASUBIO 16 <br/>21047 <br/>SARONNO (VA) <br/> <br/> <br/>direzione@ambientesaronno.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9137642,
+          45.720791
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente TRADATE <br/>Via Antonio Gramsci, 1 <br/>21049 <br/>TRADATE (VA) <br/> <br/> <br/>info@legambientetradate.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85772899,
+          45.7888725
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente MULINI DELL'OLONA <br/>VIA MULINI,56 <br/>21046 <br/>MALNATE (VA) <br/> <br/> <br/>legambientemalnate@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5688505,
+          45.9314913
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL BRUTTO ANATROCCOLO <br/>VIA VITTORIO VENETO, 135 <br/>28922 <br/>VERBANIA (VB) <br/> <br/> <br/>legambiente.ilbruttoanatroccolo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4205775,
+          45.3239512
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VERCELLI <br/>Corso Liberta, 72 <br/>13100 <br/>VERCELLI (VC) <br/>0161 503298 <br/> <br/>posta@ambientevc.info"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.082716,
+          45.4238049
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE CIRCOLO RIVIERA DEL BRENTA <br/>Via Brentabassa, 13 <br/>30031 <br/>DOLO (VE) <br/> <br/>345 3421353 <br/>legambienterivierabrenta@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6816373,
+          45.7212198
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente R. PASCUTTO - F. GERETTO <br/>VIA STAZIONE,151 <br/>30029 <br/>SAN STINO DI LIVENZA (VE) <br/> <br/> <br/>legambiente.venetorientale@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3452774,
+          45.4371965
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VENEZIA <br/>Cannaregio 4757 <br/>30123 <br/>VENEZIA (VE) <br/>3294249964 <br/>3294249964 <br/>venezia@legambienteveneto.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1163459,
+          45.4955954
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE VOLONTARIATO DEL MIRANESE <br/>via dante 74/a2 <br/>30035 <br/>MIRANO (VE) <br/>3386710290 <br/> <br/>info@legambientemiranese.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5821713,
+          45.5955176
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente AIRONE <br/> <br/>36010 <br/>MONTICELLO CONTE OTTO (VI) <br/>0444 945456 <br/> <br/>bruno.cazzola@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5380635,
+          45.5458896
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VICENZA VOLONTARIATO <br/>P.LE GIUSTI 23 <br/>36100 <br/>VICENZA (VI) <br/>0444729001 <br/> <br/>legambientevicenza@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.472495,
+          45.531985
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CREAZZO - OVEST VICENTINO <br/>Via Brigata Julia, 13 <br/>36051 <br/>CREAZZO (VI) <br/> <br/>3471059954 <br/>legambienteovestvi@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5506562,
+          45.545073
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente FESTAMBIENTE VICENZA <br/>Contra dei Burci n.27 <br/>36100 <br/>VICENZA (VI) <br/>0444 1232052 <br/> <br/>info@festambientevicenza.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3557246,
+          45.7142864
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente SCHIO VALLEOGRA <br/>Via Pasubio, 52 <br/>36015 <br/>SCHIO (VI) <br/> <br/> <br/>legambienteschiovalleogra@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4765801,
+          45.7020945
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente CIRCOLO LEGAMBIENTE 'PIANETA TERRA' <br/>VIA PRIMO MAGGIO, 15 <br/>36016 <br/>THIENE (VI) <br/>345 3543887 <br/> <br/>legambientepianetaterra@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3012342,
+          45.6386986
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGAMBIENTE VALLE DELL'AGNO <br/>V.le Regina Margherita 42/43 <br/>36078 <br/>VALDAGNO (VI) <br/> <br/> <br/>legambientevalleagno@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9938313,
+          45.4340305
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VERONA <br/>VIA BERTONI 4 <br/>37122 <br/>VERONA (VR) <br/>0458009686 <br/> <br/>web@legambienteverona.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9421007,
+          45.3169125
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL TIGLIO <br/> <br/>37068 <br/>VIGASIO (VR) <br/>0457363228 <br/> <br/>iltiglio@altervista.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8118259,
+          45.5718058
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente IL TASSO <br/> <br/>37010 <br/>RIVOLI VERONESE (VR) <br/>335 7687791 <br/> <br/>legambiente.iltasso@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9938313,
+          45.4340305
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente C.E.A. LEGAMBIENTE VERONA <br/>VIA BERTONI 4 <br/>37122 <br/>VERONA (VR) <br/>045 8009686 <br/> <br/>cea@legambienteverona.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3709338,
+          45.1385742
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LEGNAGO <br/>Via Pila, 42 <br/>37049 <br/>VILLA BARTOLOMEA (VR) <br/>0442-659289 <br/> <br/>legambientelegnago@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.383953,
+          45.312088
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente PERLA BLU <br/>VIA CAVOUR 72 <br/>37044 <br/>COLOGNA VENETA (VR) <br/> <br/> <br/>info@perlablu.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.098548,
+          42.420884
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente COORD. PROV.LE <br/>VIA LEONARDO DA VINCI 2/B <br/>01100 <br/>VITERBO (VT) <br/>0761/309299 <br/> <br/>legambienteviterbo@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2387494,
+          42.3272312
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LAGO DI VICO <br/> <br/> <br/>CAPRAROLA (VT) <br/> <br/> <br/>legambienteviterbo@alice.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.723447,
+          42.549977
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LA SPINOSA <br/>VIA PRINCIPE AMEDEO,120 <br/>01010 <br/>FARNESE (VT) <br/>0761458850 <br/> <br/>legambientelaspinosa@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.864113,
+          38.6645069
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente RICADI <br/>VIA Monumento, 4 <br/>89865 <br/>RICADI (VV) <br/>0963669908 <br/>328/1391146 <br/>legambiente.ricadi@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1008901,
+          38.6149391
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente VIBO VALENTIA <br/>Via dei Gelsomini, 12 <br/>89851 <br/>FRANCICA (VV) <br/> <br/>3293918372 <br/>legambientevibo@libero.it"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.966914,
+          38.5558495
+        ]
+      },
+      "properties": {
+        "descrizione": "Circolo Legambiente LA GINESTRA <br/>dott. Saladino <br/>89844 <br/>LIMBADI (VV) <br/> <br/> <br/>laginestralimbadi@libero.it"
+      }
+    }
+  ]
+}
